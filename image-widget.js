@@ -1,4 +1,3 @@
-<script>
     let index;
     const imagesArr = [
         "https://www.tltechsmart.com/wp-content/uploads/2022/04/1.png",
@@ -45,4 +44,3 @@
         index = Math.floor(Math.random()*imagesArr.length);
         document.getElementById('widget_image').src = imagesArr[index];
     }
-</script>
