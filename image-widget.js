@@ -7,5 +7,5 @@ async function linkImage() {
     let imageTitle = `Quote by ${parsed[index].source}`;
     document.getElementById('widget_image').src = imageSource;
     document.getElementById('widget_image').alt = imageAlt;
-    document.getElementById('widget_image').title = imageAlt;
+    document.getElementById('widget_image').title = imageTitle;
 }
