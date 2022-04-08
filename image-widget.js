@@ -42,5 +42,5 @@
     ];
     async function linkImage() {
         index = Math.floor(Math.random()*imagesArr.length);
-        document.getElementById('widget_image').src = imagesArr[index];
+        return document.getElementById('widget_image').src = imagesArr[index];
     }
