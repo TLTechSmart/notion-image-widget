@@ -2,7 +2,6 @@ async function tipImage() {
     let tips = await fetch("./googleSheetUK.json");
     tips = await tips.json();
     let matchDate = new Date().toISOString().slice(0, 10);
-    console.log(" Function The date is ",matchDate);
     let tipDate;
     let dailyTip;
     let dailyTipSource;
