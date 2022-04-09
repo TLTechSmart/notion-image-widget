@@ -6,10 +6,9 @@
       margin-right: auto;
     }
     .button {
-      color: white;
       display: inline-block;
-      transition-duration: 0.4s;
-      cursor: pointer;
+      margin-left: auto;
+      margin-right: auto;
     }
     .text-center {
       text-align: center;
@@ -18,14 +17,14 @@
     }
     </style>
 <body onload="tipImage()">
-<img alt = "" title = "" src="" id="tip_image" style="height:80%"/>
+<img alt = "" title = "" src="" id="tip_image" style="height:100%"/>
 <div class="text-center">
-    <button type="button"><img src="./tip-images/SLEEP.png" width="94px" onclick="tipImage('sleep')"></button>
-    <button type="button"><img src="./tip-images/NUTRITION.png" width="94px" onclick="tipImage('nutrition')"></button>
-    <button type="button"><img src="./tip-images/EXERCISE.png" width="94px" onclick="tipImage('exercise')"></button>
-    <button type="button"><img src="./tip-images/MINDFULNESS.png" width="94px" onclick="tipImage('mindfulness')"></button>
-    <button type="button"><img src="./tip-images/RELATIONSHIP.png" width="94px" onclick="tipImage('relationship')"></button>
-    <button type="button"><img src="./tip-images/PERSONAL GROWTH.png" width="94px" onclick="tipImage('personal growth')"></button>
+    <img class="button" src="./tip-images/SLEEP.png" style="width:16%" onclick="tipImage('sleep')"/>
+    <img class="button" src="./tip-images/NUTRITION.png" style="width:16%" onclick="tipImage('nutrition')"/>
+    <img class="button" src="./tip-images/EXERCISE.png" style="width:16%" onclick="tipImage('exercise')"/>
+    <img class="button" src="./tip-images/MINDFULNESS.png" style="width:16%" onclick="tipImage('mindfulness')"/>
+    <img class="button" src="./tip-images/RELATIONSHIP.png" style="width:16%" onclick="tipImage('relationship')"/>
+    <img class="button" src="./tip-images/PERSONAL GROWTH.png" style="width:16%" onclick="tipImage('personal growth')"/>
 </div>
 <script type="text/javascript" src="tip-choice-widget.js"></script>
 </body>
