@@ -61,13 +61,13 @@ async function tipImage(category) {
         dailyTipText = tipMap.tipText;
     }
 
-    if ('speechSynthesis' in window) {
-        let msg = new SpeechSynthesisUtterance();
-        msg.text = dailyTipText;
-        window.speechSynthesis.speak(msg);
-    } else {
-        console.log("Speech Synthesis Unavailable");
-    }
+//     if ('speechSynthesis' in window) {
+//         let msg = new SpeechSynthesisUtterance();
+//         msg.text = dailyTipText;
+//         window.speechSynthesis.speak(msg);
+//     } else {
+//         console.log("Speech Synthesis Unavailable");
+//     }
 } else {
     tipSource = `./tip-images/generic_tip_image.jpg`;
 }
