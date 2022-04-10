@@ -10,7 +10,7 @@ async function tipImage(category) {
     let tipSource;
     console.log(category);
 
-    if (category){
+if (category){
     try{
         if (tips.length > 1){
 
@@ -33,7 +33,7 @@ async function tipImage(category) {
     {
         console.log("Error at get data"+JSON.stringify(err));
     }
-
+    console.log(tipsCategoryMap);
     getTipIndex = await tipsCategoryMap[category][Math.floor(Math.random() * tipsCategoryMap[category].length)];
 
     try{  
@@ -59,19 +59,22 @@ async function tipImage(category) {
     } else {
         tipSource = `./tip-images/generic_tip_image.jpg`;
         dailyTipText = tipMap.tipText;
+        tipMap.graphicTitle = tipMap.subCategory;
     }
 
-//     if ('speechSynthesis' in window) {
-//         let msg = new SpeechSynthesisUtterance();
-//         msg.text = dailyTipText;
-//         window.speechSynthesis.speak(msg);
-//     } else {
-//         console.log("Speech Synthesis Unavailable");
-//     }
+    // if ('speechSynthesis' in window) {
+    //     let msg = new SpeechSynthesisUtterance();
+    //     msg.text = dailyTipText;
+    //     window.speechSynthesis.speak(msg);
+    // } else {
+    //     console.log("Speech Synthesis Unavailable");
+    // }
 } else {
     tipSource = `./tip-images/generic_tip_image.jpg`;
+    tipMap.tipText = "Select a category from the below options to see a tip.";
+    tipMap.graphicTitle = "Create your own Kindspace.";
 }
-    document.getElementById('tip_image').src = tipSource;
+    document.getElementById('tip_image').src = tipSource;  
     document.getElementById('tip_image').alt = tipMap.tipText;
-    document.getElementById('tip_image').title = tipMap.graphicTitle;
+    document.getElementById('tip_image').title = tipMap.graphicTitle; 
 };
