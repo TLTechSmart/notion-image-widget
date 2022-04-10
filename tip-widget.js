@@ -16,15 +16,17 @@ async function tipImage() {
         if ( tipDate === matchDate) {
             dailyTip = tips[i].id
             dailyTipSource = `./tip-images/${dailyTip}.png`;
-            tipAlt = `${tips[i].tipText}.`;
-            tipTitle = `${tips[i].graphicTitle}.`;
+            tipAlt = tips[i].tip;
+            tipTitle = tips[i].graphicsTitle;
             break;
         };
     }
     if (dailyTipSource) {
         tipSource = dailyTipSource;
     } else {
-        tipSource = `./tip-images/generic_tip_image.jpg`;;
+        tipSource = `./tip-images/generic_tip_image.jpg`;
+        tipAlt = "Select a category from the below options to see a tip.";
+        tipTitle = "Create your own Kindspace.";
     }
     document.getElementById('tip_image').src = tipSource;
     document.getElementById('tip_image').alt = tipAlt;
