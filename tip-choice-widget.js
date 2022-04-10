@@ -33,7 +33,7 @@ if (category){
     {
         console.log("Error at get data"+JSON.stringify(err));
     }
-    console.log(tipsCategoryMap);
+
     getTipIndex = await tipsCategoryMap[category][Math.floor(Math.random() * tipsCategoryMap[category].length)];
 
     try{  
