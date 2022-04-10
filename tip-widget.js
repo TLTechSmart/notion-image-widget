@@ -28,6 +28,6 @@ async function tipImage() {
         tipSource = `./tip-images/generic_tip_image.jpg`;;
     }
     document.getElementById('tip_image').src = tipSource;
-    document.getElementById('widget_image').alt = tipAlt;
-    document.getElementById('widget_image').title = tipTitle;
+    document.getElementById('tip_image').alt = tipAlt;
+    document.getElementById('tip_image').title = tipTitle;
 };
