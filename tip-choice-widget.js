@@ -72,4 +72,6 @@ async function tipImage(category) {
     tipSource = `./tip-images/generic_tip_image.jpg`;
 }
     document.getElementById('tip_image').src = tipSource;
+    document.getElementById('widget_image').alt = tipMap.tipText;
+    document.getElementById('widget_image').title = tipMap.graphicTitle;
 };
