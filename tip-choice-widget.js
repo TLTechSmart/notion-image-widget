@@ -24,7 +24,6 @@ if (category){
                     break;
                 }
             }
-            console.log(tipsCategoryMap);
         } else {
             console.log("No Tips Found");
         }
