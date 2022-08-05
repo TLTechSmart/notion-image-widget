@@ -1754,9 +1754,9 @@
     {
         "id": "A.T.150",
         "subCategory": "Sleep",
-        "tip": "Eating kiwi an hour before bedtime can improve sleep. Kiwis are rich in serotonin which is why they help you fall asleep quick and sleep more soundly.",
+        "tip": "Eating kiwifruit an hour before bedtime can improve sleep. Kiwis are rich in serotonin which is why they help you fall asleep quick and sleep more soundly.",
         "tipOfTheDayDate": "2022-07-15T07:00:00.000Z",
-        "ssmlProofread": "Eating kiwi an hour before bedtime can improve sleep. Kiwis are rich in serotonin which is why they help you fall asleep quick and sleep more soundly.",
+        "ssmlProofread": "Eating kiwifruit an hour before bedtime can improve sleep. Kiwis are rich in serotonin which is why they help you fall asleep quick and sleep more soundly.",
         "graphicsTitle": "Kiwi",
         "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
@@ -1973,7 +1973,8 @@
         "tip": "Make sure that you have adequate insurance policies to support you in case you have an unforeseen problem in the future. Setting up cover for your health, life, home, and car, can be complicated.  You can get free advice on the Money Saving Expert website.",
         "tipOfTheDayDate": "2022-08-08T07:00:00.000Z",
         "ssmlProofread": "Make sure that you have adequate insurance policies to support you <break time='1ms'/> in case you have an unforeseen problem in the future. Setting up cover for your health, life, home, and car, can be complicated.  You can get free advice on the Money Saving Ex website.",
-        "graphicsTitle": "Insurance"
+        "graphicsTitle": "Insurance",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "B.T.174",
@@ -2026,7 +2027,8 @@
         "tip": "Gardening and even just being in green spaces or being able to see nature has a huge influence on our mental wellbeing. Research studies into the use of gardening as therapy has demonstrated it can reduce stress, depression and anxiety. Look for opportunities to experience the healing power of plants and nature, whether that is in your own garden, a window box or a community space. For inspiration Kendall Platt has some beautiful resources and support to help you get started.",
         "tipOfTheDayDate": "2022-08-14T07:00:00.000Z",
         "ssmlProofread": "Gardening and even just being in green spaces or being able to see nature has a huge influence on our mental wellbeing. Research studies into the use of gardening as therapy has demonstrated it can reduce stress, depression and anxiety. Look for opportunities to experience the healing power of plants and nature, whether that is in your own garden, a window box or a community space. For inspiration Kendall Platt has some beautiful resources and support to help you get started.",
-        "graphicsTitle": "Gardening Boosts Mental Health"
+        "graphicsTitle": "Gardening Boosts Mental Health",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "A.T.124",
@@ -2043,7 +2045,8 @@
         "tip": "When it comes to your finances, do you tend to bury your head in the sand? It's really important to regularly check your bank transactions. This will help you to understand where your money is going but more importantly spot if there are any transactions that look suspicious.",
         "tipOfTheDayDate": "2022-08-16T07:00:00.000Z",
         "ssmlProofread": "When it comes to your fineances, do you tend to bury your head in the sand? It's really important to regularly check your bank transactions. This will help you to understand where your money is going but more importantly spot if there are any transactions that look suspicious.",
-        "graphicsTitle": "Check Your Bank Transactions"
+        "graphicsTitle": "Check Your Bank Transactions",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "B.T.112",
@@ -2087,7 +2090,8 @@
         "tip": "Singing is a fantastic way to reduce stress and is well worth trying no matter how good you think your voice sounds. Singing releases endorphins, serotonin and dopamine the brain’s ‘feel-good’ chemicals and it requires diaphragmatic breathing which activates the body’s parasympathetic nervous system, slowing the heart rate and lowering your blood pressure. Singing is an enjoyable and free activity that you can do at home, in the car, shower, etc. Try a free singing course or join a local choir!",
         "tipOfTheDayDate": "2022-08-21T07:00:00.000Z",
         "ssmlProofread": "Singing is a fantastic way to reduce stress and is well worth trying no matter how good you think your voice sounds. Singing releases endorphins, serotonin and dopamine the brain’s ‘feel-good’ chemicals and it requires diaphragmatic breathing which activates the body’s parasympathetic nervous system, slowing the heart rate and lowering your blood pressure. Singing is an enjoyable and free activity that you can do at home, in the car, shower, etc. Try a free singing course or join a local choir!\n ",
-        "graphicsTitle": "Singing"
+        "graphicsTitle": "Singing",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "A.T.171",
@@ -2113,7 +2117,8 @@
         "tip": "Learn to ask questions and listen in your relationships. Often you don’t have to give advice and try to fix things, you can be a great support just by being there.",
         "tipOfTheDayDate": "2022-08-24T07:00:00.000Z",
         "ssmlProofread": "Learn to ask questions and listen in your relationships. Often you don’t have to give advice and try to fix things, you can be a great support just by being there.",
-        "graphicsTitle": "Ask Questions"
+        "graphicsTitle": "Ask Questions",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "B.T.261",
@@ -2121,7 +2126,8 @@
         "tip": "A home spa session can be a lovely way to feel rejuvenated and look after your mind and body. You can create a spa atmosphere with music, warm soft towels and a robe and aromatherapy oils for scent. You don't need to go to a lot of expense. Rachel Talbott has a fantastic video on her YouTube channel with DIY spa day recipes.",
         "tipOfTheDayDate": "2022-08-25T07:00:00.000Z",
         "ssmlProofread": "A home spa session can be a lovely way to feel rejuvenated and look after your mind and body. You can create a spa atmosphere with music, warm soft towels and a robe and aromatherapy oils for scent. You don't need to go to a lot of expense. Rachel Talbott has a fantastic video on her YouTube channel with DIY spa day recipes.",
-        "graphicsTitle": "Home Spa"
+        "graphicsTitle": "Home Spa",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "A.T.40",
@@ -2138,7 +2144,8 @@
         "tip": "Self-help books are a fantastic way to support your mental health, improve your self-awareness and provide you with new tools to reframe your thoughts. Even just reading for 15 minutes a day will give you the opportunity to focus on your personal development and better deal with life's challenges.",
         "tipOfTheDayDate": "2022-08-27T07:00:00.000Z",
         "ssmlProofread": "Self-help books are a fantastic way to support your mental health, improve your self-awareness and provide you with new tools to reframe your thoughts. Even just reading for 15 minutes a day will give you the opportunity to focus on your personal development and better deal with life's challenges.",
-        "graphicsTitle": "Self-help Books"
+        "graphicsTitle": "Self-help Books",
+        "linkToGraphics": "In S3 kindspaceresultsimages bucket"
     },
     {
         "id": "B.T.6",
