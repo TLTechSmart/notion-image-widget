@@ -3,35 +3,462 @@
         "id": "B.T.228",
         "graphicsTitle": "Anything is Possible",
         "affirmation": "Wonderful things are going to happen to me. Anything is possible",
-        "affirmationDayDate": "2022-01-01T08:00:00.000Z",
+        "affirmationDayDate": "2023-01-01T08:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.229",
+        "graphicsTitle": "I am Going to Shine",
+        "affirmation": "Today I am going to shine. My possibilities are endless.",
+        "affirmationDayDate": "2023-01-02T08:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.230",
+        "graphicsTitle": "Imperfections",
+        "affirmation": "My imperfections make me human. I forgive myself when I make a mistake.",
+        "affirmationDayDate": "2023-01-03T08:00:00.000Z",
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.231",
+        "graphicsTitle": "Power of Attraction",
+        "affirmation": "I attract the perfect people at the right time. I trust that what is right for me won't pass me by.",
+        "affirmationDayDate": "2023-01-04T08:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.197",
+        "graphicsTitle": "Challenges & Success",
+        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
+        "affirmationDayDate": "2023-01-05T08:00:00.000Z",
+        "challengeDayNo": 1,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.198",
+        "graphicsTitle": "Prosperity",
+        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
+        "affirmationDayDate": "2023-01-06T08:00:00.000Z",
+        "challengeDayNo": 2,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.199",
+        "graphicsTitle": "Self-worth",
+        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
+        "affirmationDayDate": "2023-01-07T08:00:00.000Z",
+        "challengeDayNo": 3,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.200",
+        "graphicsTitle": "Heart & Mind",
+        "affirmation": "I have strength in my heart and clarity in my mind.",
+        "affirmationDayDate": "2023-01-08T08:00:00.000Z",
+        "challengeDayNo": 4,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.201",
+        "graphicsTitle": "Unstoppable",
+        "affirmation": "I have the power to create change. I am unstoppable.",
+        "affirmationDayDate": "2023-01-09T08:00:00.000Z",
+        "challengeDayNo": 5,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.202",
+        "graphicsTitle": "Letting Go",
+        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
+        "affirmationDayDate": "2023-01-10T08:00:00.000Z",
+        "challengeDayNo": 6,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.203",
+        "graphicsTitle": "I Deserve the Best",
+        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
+        "affirmationDayDate": "2023-01-11T08:00:00.000Z",
+        "challengeDayNo": 7,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.204",
+        "graphicsTitle": "Intuition",
+        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
+        "affirmationDayDate": "2023-01-12T08:00:00.000Z",
+        "challengeDayNo": 8,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.205",
+        "graphicsTitle": "Space to Grow",
+        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
+        "affirmationDayDate": "2023-01-13T08:00:00.000Z",
+        "challengeDayNo": 9,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.206",
+        "graphicsTitle": "I am Enough",
+        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
+        "affirmationDayDate": "2023-01-14T08:00:00.000Z",
+        "challengeDayNo": 10,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.207",
+        "graphicsTitle": "Accepting Emotions",
+        "affirmation": "I accept my emotions and let them serve their purpose.",
+        "affirmationDayDate": "2023-01-15T08:00:00.000Z",
+        "challengeDayNo": 11,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.208",
+        "graphicsTitle": "Care & Attention",
+        "affirmation": "I give myself the care and attention that I deserve.",
+        "affirmationDayDate": "2023-01-16T08:00:00.000Z",
+        "challengeDayNo": 12,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.209",
+        "graphicsTitle": "Right Direction",
+        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
+        "affirmationDayDate": "2023-01-17T08:00:00.000Z",
+        "challengeDayNo": 13,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.210",
+        "graphicsTitle": "My Place in the World",
+        "affirmation": "I make a difference in the world by simply existing in it.",
+        "affirmationDayDate": "2023-01-18T08:00:00.000Z",
+        "challengeDayNo": 14,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.211",
+        "graphicsTitle": "Stand Up",
+        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
+        "affirmationDayDate": "2023-01-19T08:00:00.000Z",
+        "challengeDayNo": 15,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.212",
+        "graphicsTitle": "Change is Good",
+        "affirmation": "I can choose excitement over nervousness. Change is good.",
+        "affirmationDayDate": "2023-01-20T08:00:00.000Z",
+        "challengeDayNo": 16,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.213",
+        "graphicsTitle": "Internal Resources",
+        "affirmation": "I have all the internal resources I need to thrive.",
+        "affirmationDayDate": "2023-01-21T08:00:00.000Z",
+        "challengeDayNo": 17,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.214",
+        "graphicsTitle": "Love & Acceptance",
+        "affirmation": "I am filled with love and acceptance for myself and others.",
+        "affirmationDayDate": "2023-01-22T08:00:00.000Z",
+        "challengeDayNo": 18,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.215",
+        "graphicsTitle": "Joy",
+        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
+        "affirmationDayDate": "2023-01-23T08:00:00.000Z",
+        "challengeDayNo": 19,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.216",
+        "graphicsTitle": "Incredible Person",
+        "affirmation": "I believe I am an incredible person. Inside and out.",
+        "affirmationDayDate": "2023-01-24T08:00:00.000Z",
+        "challengeDayNo": 20,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.217",
+        "graphicsTitle": "Confidence",
+        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
+        "affirmationDayDate": "2023-01-25T08:00:00.000Z",
+        "challengeDayNo": 21,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.222",
+        "graphicsTitle": "One Thing at a Time",
+        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
+        "affirmationDayDate": "2023-01-26T08:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.223",
+        "graphicsTitle": "My Own Path",
+        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
+        "affirmationDayDate": "2023-01-27T08:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.224",
+        "graphicsTitle": "Capable",
+        "affirmation": "I am capable of so much. I am proud of myself.",
+        "affirmationDayDate": "2023-01-28T08:00:00.000Z",
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.225",
+        "graphicsTitle": "Comfort Zone",
+        "affirmation": "My confidence grows when I step outside of my comfort zone.",
+        "affirmationDayDate": "2023-01-29T08:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.226",
+        "graphicsTitle": "Do My Best",
+        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
+        "affirmationDayDate": "2023-01-30T08:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.227",
+        "graphicsTitle": "Inner Strength",
+        "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
+        "affirmationDayDate": "2023-01-31T08:00:00.000Z",
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.197",
+        "graphicsTitle": "Challenges & Success",
+        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
+        "affirmationDayDate": "2023-02-01T08:00:00.000Z",
+        "challengeDayNo": 1,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.198",
+        "graphicsTitle": "Prosperity",
+        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
+        "affirmationDayDate": "2023-02-02T08:00:00.000Z",
+        "challengeDayNo": 2,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.199",
+        "graphicsTitle": "Self-worth",
+        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
+        "affirmationDayDate": "2023-02-03T08:00:00.000Z",
+        "challengeDayNo": 3,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.200",
+        "graphicsTitle": "Heart & Mind",
+        "affirmation": "I have strength in my heart and clarity in my mind.",
+        "affirmationDayDate": "2023-02-04T08:00:00.000Z",
+        "challengeDayNo": 4,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.201",
+        "graphicsTitle": "Unstoppable",
+        "affirmation": "I have the power to create change. I am unstoppable.",
+        "affirmationDayDate": "2023-02-05T08:00:00.000Z",
+        "challengeDayNo": 5,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.202",
+        "graphicsTitle": "Letting Go",
+        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
+        "affirmationDayDate": "2023-02-06T08:00:00.000Z",
+        "challengeDayNo": 6,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.203",
+        "graphicsTitle": "I Deserve the Best",
+        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
+        "affirmationDayDate": "2023-02-07T08:00:00.000Z",
+        "challengeDayNo": 7,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.204",
+        "graphicsTitle": "Intuition",
+        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
+        "affirmationDayDate": "2023-02-08T08:00:00.000Z",
+        "challengeDayNo": 8,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.205",
+        "graphicsTitle": "Space to Grow",
+        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
+        "affirmationDayDate": "2023-02-09T08:00:00.000Z",
+        "challengeDayNo": 9,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.206",
+        "graphicsTitle": "I am Enough",
+        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
+        "affirmationDayDate": "2023-02-10T08:00:00.000Z",
+        "challengeDayNo": 10,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.207",
+        "graphicsTitle": "Accepting Emotions",
+        "affirmation": "I accept my emotions and let them serve their purpose.",
+        "affirmationDayDate": "2023-02-11T08:00:00.000Z",
+        "challengeDayNo": 11,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.208",
+        "graphicsTitle": "Care & Attention",
+        "affirmation": "I give myself the care and attention that I deserve.",
+        "affirmationDayDate": "2023-02-12T08:00:00.000Z",
+        "challengeDayNo": 12,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.209",
+        "graphicsTitle": "Right Direction",
+        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
+        "affirmationDayDate": "2023-02-13T08:00:00.000Z",
+        "challengeDayNo": 13,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.210",
+        "graphicsTitle": "My Place in the World",
+        "affirmation": "I make a difference in the world by simply existing in it.",
+        "affirmationDayDate": "2023-02-14T08:00:00.000Z",
+        "challengeDayNo": 14,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.211",
+        "graphicsTitle": "Stand Up",
+        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
+        "affirmationDayDate": "2023-02-15T08:00:00.000Z",
+        "challengeDayNo": 15,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.212",
+        "graphicsTitle": "Change is Good",
+        "affirmation": "I can choose excitement over nervousness. Change is good.",
+        "affirmationDayDate": "2023-02-16T08:00:00.000Z",
+        "challengeDayNo": 16,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.213",
+        "graphicsTitle": "Internal Resources",
+        "affirmation": "I have all the internal resources I need to thrive.",
+        "affirmationDayDate": "2023-02-17T08:00:00.000Z",
+        "challengeDayNo": 17,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.214",
+        "graphicsTitle": "Love & Acceptance",
+        "affirmation": "I am filled with love and acceptance for myself and others.",
+        "affirmationDayDate": "2023-02-18T08:00:00.000Z",
+        "challengeDayNo": 18,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.215",
+        "graphicsTitle": "Joy",
+        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
+        "affirmationDayDate": "2023-02-19T08:00:00.000Z",
+        "challengeDayNo": 19,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.216",
+        "graphicsTitle": "Incredible Person",
+        "affirmation": "I believe I am an incredible person. Inside and out.",
+        "affirmationDayDate": "2023-02-20T08:00:00.000Z",
+        "challengeDayNo": 20,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.217",
+        "graphicsTitle": "Confidence",
+        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
+        "affirmationDayDate": "2023-02-21T08:00:00.000Z",
+        "challengeDayNo": 21,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.218",
+        "graphicsTitle": "Positive Energy",
+        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
+        "affirmationDayDate": "2023-02-22T08:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.219",
+        "graphicsTitle": "Breathing",
+        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
+        "affirmationDayDate": "2023-02-23T08:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.227",
+        "graphicsTitle": "Inner Strength",
+        "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
+        "affirmationDayDate": "2023-02-24T08:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.228",
+        "graphicsTitle": "Anything is Possible",
+        "affirmation": "Wonderful things are going to happen to me. Anything is possible",
+        "affirmationDayDate": "2023-02-25T08:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.229",
         "graphicsTitle": "I am Going to Shine",
         "affirmation": "Today I am going to shine. My possibilities are endless.",
-        "affirmationDayDate": "2022-01-02T08:00:00.000Z",
+        "affirmationDayDate": "2023-02-26T08:00:00.000Z",
         "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.230",
         "graphicsTitle": "Imperfections",
         "affirmation": "My imperfections make me human. I forgive myself when I make a mistake.",
-        "affirmationDayDate": "2022-01-03T08:00:00.000Z",
+        "affirmationDayDate": "2023-02-27T08:00:00.000Z",
         "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.231",
         "graphicsTitle": "Power of Attraction",
         "affirmation": "I attract the perfect people at the right time. I trust that what is right for me won't pass me by.",
-        "affirmationDayDate": "2022-01-04T08:00:00.000Z",
+        "affirmationDayDate": "2023-02-28T08:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.197",
         "graphicsTitle": "Challenges & Success",
         "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-01-05T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-01T08:00:00.000Z",
         "challengeDayNo": 1,
         "dayOfTheWeek": "Wed"
     },
@@ -39,7 +466,7 @@
         "id": "B.T.198",
         "graphicsTitle": "Prosperity",
         "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-01-06T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-02T08:00:00.000Z",
         "challengeDayNo": 2,
         "dayOfTheWeek": "Thu"
     },
@@ -47,7 +474,7 @@
         "id": "B.T.199",
         "graphicsTitle": "Self-worth",
         "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-01-07T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-03T08:00:00.000Z",
         "challengeDayNo": 3,
         "dayOfTheWeek": "Fri"
     },
@@ -55,7 +482,7 @@
         "id": "B.T.200",
         "graphicsTitle": "Heart & Mind",
         "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-01-08T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-04T08:00:00.000Z",
         "challengeDayNo": 4,
         "dayOfTheWeek": "Sat"
     },
@@ -63,7 +490,7 @@
         "id": "B.T.201",
         "graphicsTitle": "Unstoppable",
         "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-01-09T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-05T08:00:00.000Z",
         "challengeDayNo": 5,
         "dayOfTheWeek": "Sun"
     },
@@ -71,7 +498,7 @@
         "id": "B.T.202",
         "graphicsTitle": "Letting Go",
         "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-01-10T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-06T08:00:00.000Z",
         "challengeDayNo": 6,
         "dayOfTheWeek": "Mon"
     },
@@ -79,7 +506,7 @@
         "id": "B.T.203",
         "graphicsTitle": "I Deserve the Best",
         "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-01-11T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-07T08:00:00.000Z",
         "challengeDayNo": 7,
         "dayOfTheWeek": "Tue"
     },
@@ -87,7 +514,7 @@
         "id": "B.T.204",
         "graphicsTitle": "Intuition",
         "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-01-12T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-08T08:00:00.000Z",
         "challengeDayNo": 8,
         "dayOfTheWeek": "Wed"
     },
@@ -95,7 +522,7 @@
         "id": "B.T.205",
         "graphicsTitle": "Space to Grow",
         "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-01-13T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-09T08:00:00.000Z",
         "challengeDayNo": 9,
         "dayOfTheWeek": "Thu"
     },
@@ -103,7 +530,7 @@
         "id": "B.T.206",
         "graphicsTitle": "I am Enough",
         "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-01-14T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-10T08:00:00.000Z",
         "challengeDayNo": 10,
         "dayOfTheWeek": "Fri"
     },
@@ -111,7 +538,7 @@
         "id": "B.T.207",
         "graphicsTitle": "Accepting Emotions",
         "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-01-15T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-11T08:00:00.000Z",
         "challengeDayNo": 11,
         "dayOfTheWeek": "Sat"
     },
@@ -119,7 +546,7 @@
         "id": "B.T.208",
         "graphicsTitle": "Care & Attention",
         "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-01-16T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-12T08:00:00.000Z",
         "challengeDayNo": 12,
         "dayOfTheWeek": "Sun"
     },
@@ -127,7 +554,7 @@
         "id": "B.T.209",
         "graphicsTitle": "Right Direction",
         "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-01-17T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-13T07:00:00.000Z",
         "challengeDayNo": 13,
         "dayOfTheWeek": "Mon"
     },
@@ -135,7 +562,7 @@
         "id": "B.T.210",
         "graphicsTitle": "My Place in the World",
         "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-01-18T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-14T07:00:00.000Z",
         "challengeDayNo": 14,
         "dayOfTheWeek": "Tue"
     },
@@ -143,7 +570,7 @@
         "id": "B.T.211",
         "graphicsTitle": "Stand Up",
         "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-01-19T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-15T07:00:00.000Z",
         "challengeDayNo": 15,
         "dayOfTheWeek": "Wed"
     },
@@ -151,7 +578,7 @@
         "id": "B.T.212",
         "graphicsTitle": "Change is Good",
         "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-01-20T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-16T07:00:00.000Z",
         "challengeDayNo": 16,
         "dayOfTheWeek": "Thu"
     },
@@ -159,7 +586,7 @@
         "id": "B.T.213",
         "graphicsTitle": "Internal Resources",
         "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-01-21T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-17T07:00:00.000Z",
         "challengeDayNo": 17,
         "dayOfTheWeek": "Fri"
     },
@@ -167,7 +594,7 @@
         "id": "B.T.214",
         "graphicsTitle": "Love & Acceptance",
         "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-01-22T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-18T07:00:00.000Z",
         "challengeDayNo": 18,
         "dayOfTheWeek": "Sat"
     },
@@ -175,7 +602,7 @@
         "id": "B.T.215",
         "graphicsTitle": "Joy",
         "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-01-23T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-19T07:00:00.000Z",
         "challengeDayNo": 19,
         "dayOfTheWeek": "Sun"
     },
@@ -183,7 +610,7 @@
         "id": "B.T.216",
         "graphicsTitle": "Incredible Person",
         "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-01-24T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-20T07:00:00.000Z",
         "challengeDayNo": 20,
         "dayOfTheWeek": "Mon"
     },
@@ -191,274 +618,1023 @@
         "id": "B.T.217",
         "graphicsTitle": "Confidence",
         "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-01-25T08:00:00.000Z",
+        "affirmationDayDate": "2023-03-21T07:00:00.000Z",
         "challengeDayNo": 21,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.218",
+        "graphicsTitle": "Positive Energy",
+        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
+        "affirmationDayDate": "2023-03-22T07:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.219",
+        "graphicsTitle": "Breathing",
+        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
+        "affirmationDayDate": "2023-03-23T07:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.220",
+        "graphicsTitle": "Empowering Thoughts",
+        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
+        "affirmationDayDate": "2023-03-24T07:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.221",
+        "graphicsTitle": "Respecting Energy",
+        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
+        "affirmationDayDate": "2023-03-25T07:00:00.000Z",
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.222",
+        "graphicsTitle": "One Thing at a Time",
+        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
+        "affirmationDayDate": "2023-03-26T07:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.223",
+        "graphicsTitle": "My Own Path",
+        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
+        "affirmationDayDate": "2023-03-27T07:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.224",
+        "graphicsTitle": "Capable",
+        "affirmation": "I am capable of so much. I am proud of myself.",
+        "affirmationDayDate": "2023-03-28T07:00:00.000Z",
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.225",
+        "graphicsTitle": "Comfort Zone",
+        "affirmation": "My confidence grows when I step outside of my comfort zone.",
+        "affirmationDayDate": "2023-03-29T07:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.226",
+        "graphicsTitle": "Do My Best",
+        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
+        "affirmationDayDate": "2023-03-30T07:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.227",
+        "graphicsTitle": "Inner Strength",
+        "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
+        "affirmationDayDate": "2023-03-31T07:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.197",
+        "graphicsTitle": "Challenges & Success",
+        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
+        "affirmationDayDate": "2023-04-01T07:00:00.000Z",
+        "challengeDayNo": 1,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.198",
+        "graphicsTitle": "Prosperity",
+        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
+        "affirmationDayDate": "2023-04-02T07:00:00.000Z",
+        "challengeDayNo": 2,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.199",
+        "graphicsTitle": "Self-worth",
+        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
+        "affirmationDayDate": "2023-04-03T07:00:00.000Z",
+        "challengeDayNo": 3,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.200",
+        "graphicsTitle": "Heart & Mind",
+        "affirmation": "I have strength in my heart and clarity in my mind.",
+        "affirmationDayDate": "2023-04-04T07:00:00.000Z",
+        "challengeDayNo": 4,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.201",
+        "graphicsTitle": "Unstoppable",
+        "affirmation": "I have the power to create change. I am unstoppable.",
+        "affirmationDayDate": "2023-04-05T07:00:00.000Z",
+        "challengeDayNo": 5,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.202",
+        "graphicsTitle": "Letting Go",
+        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
+        "affirmationDayDate": "2023-04-06T07:00:00.000Z",
+        "challengeDayNo": 6,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.203",
+        "graphicsTitle": "I Deserve the Best",
+        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
+        "affirmationDayDate": "2023-04-07T07:00:00.000Z",
+        "challengeDayNo": 7,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.204",
+        "graphicsTitle": "Intuition",
+        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
+        "affirmationDayDate": "2023-04-08T07:00:00.000Z",
+        "challengeDayNo": 8,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.205",
+        "graphicsTitle": "Space to Grow",
+        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
+        "affirmationDayDate": "2023-04-09T07:00:00.000Z",
+        "challengeDayNo": 9,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.206",
+        "graphicsTitle": "I am Enough",
+        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
+        "affirmationDayDate": "2023-04-10T07:00:00.000Z",
+        "challengeDayNo": 10,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.207",
+        "graphicsTitle": "Accepting Emotions",
+        "affirmation": "I accept my emotions and let them serve their purpose.",
+        "affirmationDayDate": "2023-04-11T07:00:00.000Z",
+        "challengeDayNo": 11,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.208",
+        "graphicsTitle": "Care & Attention",
+        "affirmation": "I give myself the care and attention that I deserve.",
+        "affirmationDayDate": "2023-04-12T07:00:00.000Z",
+        "challengeDayNo": 12,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.209",
+        "graphicsTitle": "Right Direction",
+        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
+        "affirmationDayDate": "2023-04-13T07:00:00.000Z",
+        "challengeDayNo": 13,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.210",
+        "graphicsTitle": "My Place in the World",
+        "affirmation": "I make a difference in the world by simply existing in it.",
+        "affirmationDayDate": "2023-04-14T07:00:00.000Z",
+        "challengeDayNo": 14,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.211",
+        "graphicsTitle": "Stand Up",
+        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
+        "affirmationDayDate": "2023-04-15T07:00:00.000Z",
+        "challengeDayNo": 15,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.212",
+        "graphicsTitle": "Change is Good",
+        "affirmation": "I can choose excitement over nervousness. Change is good.",
+        "affirmationDayDate": "2023-04-16T07:00:00.000Z",
+        "challengeDayNo": 16,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.213",
+        "graphicsTitle": "Internal Resources",
+        "affirmation": "I have all the internal resources I need to thrive.",
+        "affirmationDayDate": "2023-04-17T07:00:00.000Z",
+        "challengeDayNo": 17,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.214",
+        "graphicsTitle": "Love & Acceptance",
+        "affirmation": "I am filled with love and acceptance for myself and others.",
+        "affirmationDayDate": "2023-04-18T07:00:00.000Z",
+        "challengeDayNo": 18,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.215",
+        "graphicsTitle": "Joy",
+        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
+        "affirmationDayDate": "2023-04-19T07:00:00.000Z",
+        "challengeDayNo": 19,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.216",
+        "graphicsTitle": "Incredible Person",
+        "affirmation": "I believe I am an incredible person. Inside and out.",
+        "affirmationDayDate": "2023-04-20T07:00:00.000Z",
+        "challengeDayNo": 20,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.217",
+        "graphicsTitle": "Confidence",
+        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
+        "affirmationDayDate": "2023-04-21T07:00:00.000Z",
+        "challengeDayNo": 21,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.218",
+        "graphicsTitle": "Positive Energy",
+        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
+        "affirmationDayDate": "2023-04-22T07:00:00.000Z",
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.219",
+        "graphicsTitle": "Breathing",
+        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
+        "affirmationDayDate": "2023-04-23T07:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.220",
+        "graphicsTitle": "Empowering Thoughts",
+        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
+        "affirmationDayDate": "2023-04-24T07:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.221",
+        "graphicsTitle": "Respecting Energy",
+        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
+        "affirmationDayDate": "2023-04-25T07:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.222",
         "graphicsTitle": "One Thing at a Time",
         "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-01-26T08:00:00.000Z",
+        "affirmationDayDate": "2023-04-26T07:00:00.000Z",
         "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.223",
         "graphicsTitle": "My Own Path",
         "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-01-27T08:00:00.000Z",
+        "affirmationDayDate": "2023-04-27T07:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.224",
         "graphicsTitle": "Capable",
         "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-01-28T08:00:00.000Z",
+        "affirmationDayDate": "2023-04-28T07:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.225",
         "graphicsTitle": "Comfort Zone",
         "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-01-29T08:00:00.000Z",
+        "affirmationDayDate": "2023-04-29T07:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.226",
         "graphicsTitle": "Do My Best",
         "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-01-30T08:00:00.000Z",
+        "affirmationDayDate": "2023-04-30T07:00:00.000Z",
         "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.227",
-        "graphicsTitle": "Inner Strength",
-        "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
-        "affirmationDayDate": "2022-01-31T08:00:00.000Z",
-        "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.197",
         "graphicsTitle": "Challenges & Success",
         "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-02-01T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-01T07:00:00.000Z",
         "challengeDayNo": 1,
-        "dayOfTheWeek": "Tue"
+        "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.198",
         "graphicsTitle": "Prosperity",
         "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-02-02T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-02T07:00:00.000Z",
         "challengeDayNo": 2,
-        "dayOfTheWeek": "Wed"
+        "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.199",
         "graphicsTitle": "Self-worth",
         "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-02-03T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-03T07:00:00.000Z",
         "challengeDayNo": 3,
-        "dayOfTheWeek": "Thu"
+        "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.200",
         "graphicsTitle": "Heart & Mind",
         "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-02-04T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-04T07:00:00.000Z",
         "challengeDayNo": 4,
-        "dayOfTheWeek": "Fri"
+        "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.201",
         "graphicsTitle": "Unstoppable",
         "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-02-05T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-05T07:00:00.000Z",
         "challengeDayNo": 5,
-        "dayOfTheWeek": "Sat"
+        "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.202",
         "graphicsTitle": "Letting Go",
         "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-02-06T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-06T07:00:00.000Z",
         "challengeDayNo": 6,
-        "dayOfTheWeek": "Sun"
+        "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.203",
         "graphicsTitle": "I Deserve the Best",
         "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-02-07T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-07T07:00:00.000Z",
         "challengeDayNo": 7,
-        "dayOfTheWeek": "Mon"
+        "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.204",
         "graphicsTitle": "Intuition",
         "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-02-08T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-08T07:00:00.000Z",
         "challengeDayNo": 8,
-        "dayOfTheWeek": "Tue"
+        "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.205",
         "graphicsTitle": "Space to Grow",
         "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-02-09T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-09T07:00:00.000Z",
         "challengeDayNo": 9,
-        "dayOfTheWeek": "Wed"
+        "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.206",
         "graphicsTitle": "I am Enough",
         "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-02-10T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-10T07:00:00.000Z",
         "challengeDayNo": 10,
-        "dayOfTheWeek": "Thu"
+        "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.207",
         "graphicsTitle": "Accepting Emotions",
         "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-02-11T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-11T07:00:00.000Z",
         "challengeDayNo": 11,
-        "dayOfTheWeek": "Fri"
+        "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.208",
         "graphicsTitle": "Care & Attention",
         "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-02-12T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-12T07:00:00.000Z",
         "challengeDayNo": 12,
-        "dayOfTheWeek": "Sat"
+        "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.209",
         "graphicsTitle": "Right Direction",
         "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-02-13T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-13T07:00:00.000Z",
         "challengeDayNo": 13,
-        "dayOfTheWeek": "Sun"
+        "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.210",
         "graphicsTitle": "My Place in the World",
         "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-02-14T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-14T07:00:00.000Z",
         "challengeDayNo": 14,
-        "dayOfTheWeek": "Mon"
+        "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.211",
         "graphicsTitle": "Stand Up",
         "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-02-15T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-15T07:00:00.000Z",
         "challengeDayNo": 15,
-        "dayOfTheWeek": "Tue"
+        "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.212",
         "graphicsTitle": "Change is Good",
         "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-02-16T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-16T07:00:00.000Z",
         "challengeDayNo": 16,
-        "dayOfTheWeek": "Wed"
+        "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.213",
         "graphicsTitle": "Internal Resources",
         "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-02-17T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-17T07:00:00.000Z",
         "challengeDayNo": 17,
-        "dayOfTheWeek": "Thu"
+        "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.214",
         "graphicsTitle": "Love & Acceptance",
         "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-02-18T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-18T07:00:00.000Z",
         "challengeDayNo": 18,
-        "dayOfTheWeek": "Fri"
+        "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.215",
         "graphicsTitle": "Joy",
         "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-02-19T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-19T07:00:00.000Z",
         "challengeDayNo": 19,
-        "dayOfTheWeek": "Sat"
+        "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.216",
         "graphicsTitle": "Incredible Person",
         "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-02-20T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-20T07:00:00.000Z",
         "challengeDayNo": 20,
-        "dayOfTheWeek": "Sun"
+        "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.217",
         "graphicsTitle": "Confidence",
         "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-02-21T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-21T07:00:00.000Z",
         "challengeDayNo": 21,
-        "dayOfTheWeek": "Mon"
+        "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.218",
         "graphicsTitle": "Positive Energy",
         "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-02-22T08:00:00.000Z",
-        "dayOfTheWeek": "Tue"
+        "affirmationDayDate": "2023-05-22T07:00:00.000Z",
+        "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.219",
         "graphicsTitle": "Breathing",
         "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-02-23T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-23T07:00:00.000Z",
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.220",
+        "graphicsTitle": "Empowering Thoughts",
+        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
+        "affirmationDayDate": "2023-05-24T07:00:00.000Z",
         "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.221",
+        "graphicsTitle": "Respecting Energy",
+        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
+        "affirmationDayDate": "2023-05-25T07:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.222",
+        "graphicsTitle": "One Thing at a Time",
+        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
+        "affirmationDayDate": "2023-05-26T07:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.223",
+        "graphicsTitle": "My Own Path",
+        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
+        "affirmationDayDate": "2023-05-27T07:00:00.000Z",
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.224",
+        "graphicsTitle": "Capable",
+        "affirmation": "I am capable of so much. I am proud of myself.",
+        "affirmationDayDate": "2023-05-28T07:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.225",
+        "graphicsTitle": "Comfort Zone",
+        "affirmation": "My confidence grows when I step outside of my comfort zone.",
+        "affirmationDayDate": "2023-05-29T07:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.226",
+        "graphicsTitle": "Do My Best",
+        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
+        "affirmationDayDate": "2023-05-30T07:00:00.000Z",
+        "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.227",
         "graphicsTitle": "Inner Strength",
         "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
-        "affirmationDayDate": "2022-02-24T08:00:00.000Z",
+        "affirmationDayDate": "2023-05-31T07:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.197",
+        "graphicsTitle": "Challenges & Success",
+        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
+        "affirmationDayDate": "2023-06-01T07:00:00.000Z",
+        "challengeDayNo": 1,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.198",
+        "graphicsTitle": "Prosperity",
+        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
+        "affirmationDayDate": "2023-06-02T07:00:00.000Z",
+        "challengeDayNo": 2,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.199",
+        "graphicsTitle": "Self-worth",
+        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
+        "affirmationDayDate": "2023-06-03T07:00:00.000Z",
+        "challengeDayNo": 3,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.200",
+        "graphicsTitle": "Heart & Mind",
+        "affirmation": "I have strength in my heart and clarity in my mind.",
+        "affirmationDayDate": "2023-06-04T07:00:00.000Z",
+        "challengeDayNo": 4,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.201",
+        "graphicsTitle": "Unstoppable",
+        "affirmation": "I have the power to create change. I am unstoppable.",
+        "affirmationDayDate": "2023-06-05T07:00:00.000Z",
+        "challengeDayNo": 5,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.202",
+        "graphicsTitle": "Letting Go",
+        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
+        "affirmationDayDate": "2023-06-06T07:00:00.000Z",
+        "challengeDayNo": 6,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.203",
+        "graphicsTitle": "I Deserve the Best",
+        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
+        "affirmationDayDate": "2023-06-07T07:00:00.000Z",
+        "challengeDayNo": 7,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.204",
+        "graphicsTitle": "Intuition",
+        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
+        "affirmationDayDate": "2023-06-08T07:00:00.000Z",
+        "challengeDayNo": 8,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.205",
+        "graphicsTitle": "Space to Grow",
+        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
+        "affirmationDayDate": "2023-06-09T07:00:00.000Z",
+        "challengeDayNo": 9,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.206",
+        "graphicsTitle": "I am Enough",
+        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
+        "affirmationDayDate": "2023-06-10T07:00:00.000Z",
+        "challengeDayNo": 10,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.207",
+        "graphicsTitle": "Accepting Emotions",
+        "affirmation": "I accept my emotions and let them serve their purpose.",
+        "affirmationDayDate": "2023-06-11T07:00:00.000Z",
+        "challengeDayNo": 11,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.208",
+        "graphicsTitle": "Care & Attention",
+        "affirmation": "I give myself the care and attention that I deserve.",
+        "affirmationDayDate": "2023-06-12T07:00:00.000Z",
+        "challengeDayNo": 12,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.209",
+        "graphicsTitle": "Right Direction",
+        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
+        "affirmationDayDate": "2023-06-13T07:00:00.000Z",
+        "challengeDayNo": 13,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.210",
+        "graphicsTitle": "My Place in the World",
+        "affirmation": "I make a difference in the world by simply existing in it.",
+        "affirmationDayDate": "2023-06-14T07:00:00.000Z",
+        "challengeDayNo": 14,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.211",
+        "graphicsTitle": "Stand Up",
+        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
+        "affirmationDayDate": "2023-06-15T07:00:00.000Z",
+        "challengeDayNo": 15,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.212",
+        "graphicsTitle": "Change is Good",
+        "affirmation": "I can choose excitement over nervousness. Change is good.",
+        "affirmationDayDate": "2023-06-16T07:00:00.000Z",
+        "challengeDayNo": 16,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.213",
+        "graphicsTitle": "Internal Resources",
+        "affirmation": "I have all the internal resources I need to thrive.",
+        "affirmationDayDate": "2023-06-17T07:00:00.000Z",
+        "challengeDayNo": 17,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.214",
+        "graphicsTitle": "Love & Acceptance",
+        "affirmation": "I am filled with love and acceptance for myself and others.",
+        "affirmationDayDate": "2023-06-18T07:00:00.000Z",
+        "challengeDayNo": 18,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.215",
+        "graphicsTitle": "Joy",
+        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
+        "affirmationDayDate": "2023-06-19T07:00:00.000Z",
+        "challengeDayNo": 19,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.216",
+        "graphicsTitle": "Incredible Person",
+        "affirmation": "I believe I am an incredible person. Inside and out.",
+        "affirmationDayDate": "2023-06-20T07:00:00.000Z",
+        "challengeDayNo": 20,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.217",
+        "graphicsTitle": "Confidence",
+        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
+        "affirmationDayDate": "2023-06-21T07:00:00.000Z",
+        "challengeDayNo": 21,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.218",
+        "graphicsTitle": "Positive Energy",
+        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
+        "affirmationDayDate": "2023-06-22T07:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.219",
+        "graphicsTitle": "Breathing",
+        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
+        "affirmationDayDate": "2023-06-23T07:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.220",
+        "graphicsTitle": "Empowering Thoughts",
+        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
+        "affirmationDayDate": "2023-06-24T07:00:00.000Z",
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.221",
+        "graphicsTitle": "Respecting Energy",
+        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
+        "affirmationDayDate": "2023-06-25T07:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.222",
+        "graphicsTitle": "One Thing at a Time",
+        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
+        "affirmationDayDate": "2023-06-26T07:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.223",
+        "graphicsTitle": "My Own Path",
+        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
+        "affirmationDayDate": "2023-06-27T07:00:00.000Z",
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.224",
+        "graphicsTitle": "Capable",
+        "affirmation": "I am capable of so much. I am proud of myself.",
+        "affirmationDayDate": "2023-06-28T07:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.225",
+        "graphicsTitle": "Comfort Zone",
+        "affirmation": "My confidence grows when I step outside of my comfort zone.",
+        "affirmationDayDate": "2023-06-29T07:00:00.000Z",
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.226",
+        "graphicsTitle": "Do My Best",
+        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
+        "affirmationDayDate": "2023-06-30T07:00:00.000Z",
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.197",
+        "graphicsTitle": "Challenges & Success",
+        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
+        "affirmationDayDate": "2023-07-01T07:00:00.000Z",
+        "challengeDayNo": 1,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.198",
+        "graphicsTitle": "Prosperity",
+        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
+        "affirmationDayDate": "2023-07-02T07:00:00.000Z",
+        "challengeDayNo": 2,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.199",
+        "graphicsTitle": "Self-worth",
+        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
+        "affirmationDayDate": "2023-07-03T07:00:00.000Z",
+        "challengeDayNo": 3,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.200",
+        "graphicsTitle": "Heart & Mind",
+        "affirmation": "I have strength in my heart and clarity in my mind.",
+        "affirmationDayDate": "2023-07-04T07:00:00.000Z",
+        "challengeDayNo": 4,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.201",
+        "graphicsTitle": "Unstoppable",
+        "affirmation": "I have the power to create change. I am unstoppable.",
+        "affirmationDayDate": "2023-07-05T07:00:00.000Z",
+        "challengeDayNo": 5,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.202",
+        "graphicsTitle": "Letting Go",
+        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
+        "affirmationDayDate": "2023-07-06T07:00:00.000Z",
+        "challengeDayNo": 6,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.203",
+        "graphicsTitle": "I Deserve the Best",
+        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
+        "affirmationDayDate": "2023-07-07T07:00:00.000Z",
+        "challengeDayNo": 7,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.204",
+        "graphicsTitle": "Intuition",
+        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
+        "affirmationDayDate": "2023-07-08T07:00:00.000Z",
+        "challengeDayNo": 8,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.205",
+        "graphicsTitle": "Space to Grow",
+        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
+        "affirmationDayDate": "2023-07-09T07:00:00.000Z",
+        "challengeDayNo": 9,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.206",
+        "graphicsTitle": "I am Enough",
+        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
+        "affirmationDayDate": "2023-07-10T07:00:00.000Z",
+        "challengeDayNo": 10,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.207",
+        "graphicsTitle": "Accepting Emotions",
+        "affirmation": "I accept my emotions and let them serve their purpose.",
+        "affirmationDayDate": "2023-07-11T07:00:00.000Z",
+        "challengeDayNo": 11,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.208",
+        "graphicsTitle": "Care & Attention",
+        "affirmation": "I give myself the care and attention that I deserve.",
+        "affirmationDayDate": "2023-07-12T07:00:00.000Z",
+        "challengeDayNo": 12,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.209",
+        "graphicsTitle": "Right Direction",
+        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
+        "affirmationDayDate": "2023-07-13T07:00:00.000Z",
+        "challengeDayNo": 13,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.210",
+        "graphicsTitle": "My Place in the World",
+        "affirmation": "I make a difference in the world by simply existing in it.",
+        "affirmationDayDate": "2023-07-14T07:00:00.000Z",
+        "challengeDayNo": 14,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.211",
+        "graphicsTitle": "Stand Up",
+        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
+        "affirmationDayDate": "2023-07-15T07:00:00.000Z",
+        "challengeDayNo": 15,
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.212",
+        "graphicsTitle": "Change is Good",
+        "affirmation": "I can choose excitement over nervousness. Change is good.",
+        "affirmationDayDate": "2023-07-16T07:00:00.000Z",
+        "challengeDayNo": 16,
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.213",
+        "graphicsTitle": "Internal Resources",
+        "affirmation": "I have all the internal resources I need to thrive.",
+        "affirmationDayDate": "2023-07-17T07:00:00.000Z",
+        "challengeDayNo": 17,
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.214",
+        "graphicsTitle": "Love & Acceptance",
+        "affirmation": "I am filled with love and acceptance for myself and others.",
+        "affirmationDayDate": "2023-07-18T07:00:00.000Z",
+        "challengeDayNo": 18,
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.215",
+        "graphicsTitle": "Joy",
+        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
+        "affirmationDayDate": "2023-07-19T07:00:00.000Z",
+        "challengeDayNo": 19,
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.216",
+        "graphicsTitle": "Incredible Person",
+        "affirmation": "I believe I am an incredible person. Inside and out.",
+        "affirmationDayDate": "2023-07-20T07:00:00.000Z",
+        "challengeDayNo": 20,
+        "dayOfTheWeek": "Thu"
+    },
+    {
+        "id": "B.T.217",
+        "graphicsTitle": "Confidence",
+        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
+        "affirmationDayDate": "2023-07-21T07:00:00.000Z",
+        "challengeDayNo": 21,
+        "dayOfTheWeek": "Fri"
+    },
+    {
+        "id": "B.T.218",
+        "graphicsTitle": "Positive Energy",
+        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
+        "affirmationDayDate": "2023-07-22T07:00:00.000Z",
+        "dayOfTheWeek": "Sat"
+    },
+    {
+        "id": "B.T.219",
+        "graphicsTitle": "Breathing",
+        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
+        "affirmationDayDate": "2023-07-23T07:00:00.000Z",
+        "dayOfTheWeek": "Sun"
+    },
+    {
+        "id": "B.T.220",
+        "graphicsTitle": "Empowering Thoughts",
+        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
+        "affirmationDayDate": "2023-07-24T07:00:00.000Z",
+        "dayOfTheWeek": "Mon"
+    },
+    {
+        "id": "B.T.221",
+        "graphicsTitle": "Respecting Energy",
+        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
+        "affirmationDayDate": "2023-07-25T07:00:00.000Z",
+        "dayOfTheWeek": "Tue"
+    },
+    {
+        "id": "B.T.222",
+        "graphicsTitle": "One Thing at a Time",
+        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
+        "affirmationDayDate": "2023-07-26T07:00:00.000Z",
+        "dayOfTheWeek": "Wed"
+    },
+    {
+        "id": "B.T.223",
+        "graphicsTitle": "My Own Path",
+        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
+        "affirmationDayDate": "2023-07-27T07:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.228",
         "graphicsTitle": "Anything is Possible",
         "affirmation": "Wonderful things are going to happen to me. Anything is possible",
-        "affirmationDayDate": "2022-02-25T08:00:00.000Z",
+        "affirmationDayDate": "2023-07-28T07:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.229",
         "graphicsTitle": "I am Going to Shine",
         "affirmation": "Today I am going to shine. My possibilities are endless.",
-        "affirmationDayDate": "2022-02-26T08:00:00.000Z",
+        "affirmationDayDate": "2023-07-29T07:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.230",
         "graphicsTitle": "Imperfections",
         "affirmation": "My imperfections make me human. I forgive myself when I make a mistake.",
-        "affirmationDayDate": "2022-02-27T08:00:00.000Z",
+        "affirmationDayDate": "2023-07-30T07:00:00.000Z",
         "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.231",
         "graphicsTitle": "Power of Attraction",
         "affirmation": "I attract the perfect people at the right time. I trust that what is right for me won't pass me by.",
-        "affirmationDayDate": "2022-02-28T08:00:00.000Z",
+        "affirmationDayDate": "2023-07-31T07:00:00.000Z",
         "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.197",
         "graphicsTitle": "Challenges & Success",
         "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-03-01T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-01T07:00:00.000Z",
         "challengeDayNo": 1,
         "dayOfTheWeek": "Tue"
     },
@@ -466,7 +1642,7 @@
         "id": "B.T.198",
         "graphicsTitle": "Prosperity",
         "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-03-02T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-02T07:00:00.000Z",
         "challengeDayNo": 2,
         "dayOfTheWeek": "Wed"
     },
@@ -474,7 +1650,7 @@
         "id": "B.T.199",
         "graphicsTitle": "Self-worth",
         "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-03-03T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-03T07:00:00.000Z",
         "challengeDayNo": 3,
         "dayOfTheWeek": "Thu"
     },
@@ -482,7 +1658,7 @@
         "id": "B.T.200",
         "graphicsTitle": "Heart & Mind",
         "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-03-04T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-04T07:00:00.000Z",
         "challengeDayNo": 4,
         "dayOfTheWeek": "Fri"
     },
@@ -490,7 +1666,7 @@
         "id": "B.T.201",
         "graphicsTitle": "Unstoppable",
         "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-03-05T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-05T07:00:00.000Z",
         "challengeDayNo": 5,
         "dayOfTheWeek": "Sat"
     },
@@ -498,7 +1674,7 @@
         "id": "B.T.202",
         "graphicsTitle": "Letting Go",
         "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-03-06T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-06T07:00:00.000Z",
         "challengeDayNo": 6,
         "dayOfTheWeek": "Sun"
     },
@@ -506,7 +1682,7 @@
         "id": "B.T.203",
         "graphicsTitle": "I Deserve the Best",
         "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-03-07T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-07T07:00:00.000Z",
         "challengeDayNo": 7,
         "dayOfTheWeek": "Mon"
     },
@@ -514,7 +1690,7 @@
         "id": "B.T.204",
         "graphicsTitle": "Intuition",
         "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-03-08T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-08T07:00:00.000Z",
         "challengeDayNo": 8,
         "dayOfTheWeek": "Tue"
     },
@@ -522,7 +1698,7 @@
         "id": "B.T.205",
         "graphicsTitle": "Space to Grow",
         "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-03-09T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-09T07:00:00.000Z",
         "challengeDayNo": 9,
         "dayOfTheWeek": "Wed"
     },
@@ -530,7 +1706,7 @@
         "id": "B.T.206",
         "graphicsTitle": "I am Enough",
         "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-03-10T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-10T07:00:00.000Z",
         "challengeDayNo": 10,
         "dayOfTheWeek": "Thu"
     },
@@ -538,7 +1714,7 @@
         "id": "B.T.207",
         "graphicsTitle": "Accepting Emotions",
         "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-03-11T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-11T07:00:00.000Z",
         "challengeDayNo": 11,
         "dayOfTheWeek": "Fri"
     },
@@ -546,7 +1722,7 @@
         "id": "B.T.208",
         "graphicsTitle": "Care & Attention",
         "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-03-12T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-12T07:00:00.000Z",
         "challengeDayNo": 12,
         "dayOfTheWeek": "Sat"
     },
@@ -554,7 +1730,7 @@
         "id": "B.T.209",
         "graphicsTitle": "Right Direction",
         "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-03-13T08:00:00.000Z",
+        "affirmationDayDate": "2023-08-13T07:00:00.000Z",
         "challengeDayNo": 13,
         "dayOfTheWeek": "Sun"
     },
@@ -562,7 +1738,7 @@
         "id": "B.T.210",
         "graphicsTitle": "My Place in the World",
         "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-03-14T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-14T07:00:00.000Z",
         "challengeDayNo": 14,
         "dayOfTheWeek": "Mon"
     },
@@ -570,7 +1746,7 @@
         "id": "B.T.211",
         "graphicsTitle": "Stand Up",
         "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-03-15T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-15T07:00:00.000Z",
         "challengeDayNo": 15,
         "dayOfTheWeek": "Tue"
     },
@@ -578,7 +1754,7 @@
         "id": "B.T.212",
         "graphicsTitle": "Change is Good",
         "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-03-16T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-16T07:00:00.000Z",
         "challengeDayNo": 16,
         "dayOfTheWeek": "Wed"
     },
@@ -586,7 +1762,7 @@
         "id": "B.T.213",
         "graphicsTitle": "Internal Resources",
         "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-03-17T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-17T07:00:00.000Z",
         "challengeDayNo": 17,
         "dayOfTheWeek": "Thu"
     },
@@ -594,7 +1770,7 @@
         "id": "B.T.214",
         "graphicsTitle": "Love & Acceptance",
         "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-03-18T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-18T07:00:00.000Z",
         "challengeDayNo": 18,
         "dayOfTheWeek": "Fri"
     },
@@ -602,7 +1778,7 @@
         "id": "B.T.215",
         "graphicsTitle": "Joy",
         "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-03-19T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-19T07:00:00.000Z",
         "challengeDayNo": 19,
         "dayOfTheWeek": "Sat"
     },
@@ -610,7 +1786,7 @@
         "id": "B.T.216",
         "graphicsTitle": "Incredible Person",
         "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-03-20T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-20T07:00:00.000Z",
         "challengeDayNo": 20,
         "dayOfTheWeek": "Sun"
     },
@@ -618,7 +1794,7 @@
         "id": "B.T.217",
         "graphicsTitle": "Confidence",
         "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-03-21T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-21T07:00:00.000Z",
         "challengeDayNo": 21,
         "dayOfTheWeek": "Mon"
     },
@@ -626,77 +1802,77 @@
         "id": "B.T.218",
         "graphicsTitle": "Positive Energy",
         "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-03-22T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-22T07:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.219",
         "graphicsTitle": "Breathing",
         "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-03-23T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-23T07:00:00.000Z",
         "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.220",
         "graphicsTitle": "Empowering Thoughts",
         "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-03-24T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-24T07:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.221",
         "graphicsTitle": "Respecting Energy",
         "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-03-25T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-25T07:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.222",
         "graphicsTitle": "One Thing at a Time",
         "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-03-26T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-26T07:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.223",
         "graphicsTitle": "My Own Path",
         "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-03-27T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-27T07:00:00.000Z",
         "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.224",
         "graphicsTitle": "Capable",
         "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-03-28T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-28T07:00:00.000Z",
         "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.225",
         "graphicsTitle": "Comfort Zone",
         "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-03-29T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-29T07:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.226",
         "graphicsTitle": "Do My Best",
         "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-03-30T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-30T07:00:00.000Z",
         "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.227",
         "graphicsTitle": "Inner Strength",
         "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
-        "affirmationDayDate": "2022-03-31T07:00:00.000Z",
+        "affirmationDayDate": "2023-08-31T07:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.197",
         "graphicsTitle": "Challenges & Success",
         "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-04-01T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-01T07:00:00.000Z",
         "challengeDayNo": 1,
         "dayOfTheWeek": "Fri"
     },
@@ -704,7 +1880,7 @@
         "id": "B.T.198",
         "graphicsTitle": "Prosperity",
         "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-04-02T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-02T07:00:00.000Z",
         "challengeDayNo": 2,
         "dayOfTheWeek": "Sat"
     },
@@ -712,7 +1888,7 @@
         "id": "B.T.199",
         "graphicsTitle": "Self-worth",
         "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-04-03T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-03T07:00:00.000Z",
         "challengeDayNo": 3,
         "dayOfTheWeek": "Sun"
     },
@@ -720,7 +1896,7 @@
         "id": "B.T.200",
         "graphicsTitle": "Heart & Mind",
         "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-04-04T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-04T07:00:00.000Z",
         "challengeDayNo": 4,
         "dayOfTheWeek": "Mon"
     },
@@ -728,7 +1904,7 @@
         "id": "B.T.201",
         "graphicsTitle": "Unstoppable",
         "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-04-05T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-05T07:00:00.000Z",
         "challengeDayNo": 5,
         "dayOfTheWeek": "Tue"
     },
@@ -736,7 +1912,7 @@
         "id": "B.T.202",
         "graphicsTitle": "Letting Go",
         "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-04-06T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-06T07:00:00.000Z",
         "challengeDayNo": 6,
         "dayOfTheWeek": "Wed"
     },
@@ -744,7 +1920,7 @@
         "id": "B.T.203",
         "graphicsTitle": "I Deserve the Best",
         "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-04-07T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-07T07:00:00.000Z",
         "challengeDayNo": 7,
         "dayOfTheWeek": "Thu"
     },
@@ -752,7 +1928,7 @@
         "id": "B.T.204",
         "graphicsTitle": "Intuition",
         "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-04-08T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-08T07:00:00.000Z",
         "challengeDayNo": 8,
         "dayOfTheWeek": "Fri"
     },
@@ -760,7 +1936,7 @@
         "id": "B.T.205",
         "graphicsTitle": "Space to Grow",
         "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-04-09T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-09T07:00:00.000Z",
         "challengeDayNo": 9,
         "dayOfTheWeek": "Sat"
     },
@@ -768,7 +1944,7 @@
         "id": "B.T.206",
         "graphicsTitle": "I am Enough",
         "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-04-10T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-10T07:00:00.000Z",
         "challengeDayNo": 10,
         "dayOfTheWeek": "Sun"
     },
@@ -776,7 +1952,7 @@
         "id": "B.T.207",
         "graphicsTitle": "Accepting Emotions",
         "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-04-11T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-11T07:00:00.000Z",
         "challengeDayNo": 11,
         "dayOfTheWeek": "Mon"
     },
@@ -784,7 +1960,7 @@
         "id": "B.T.208",
         "graphicsTitle": "Care & Attention",
         "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-04-12T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-12T07:00:00.000Z",
         "challengeDayNo": 12,
         "dayOfTheWeek": "Tue"
     },
@@ -792,7 +1968,7 @@
         "id": "B.T.209",
         "graphicsTitle": "Right Direction",
         "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-04-13T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-13T07:00:00.000Z",
         "challengeDayNo": 13,
         "dayOfTheWeek": "Wed"
     },
@@ -800,7 +1976,7 @@
         "id": "B.T.210",
         "graphicsTitle": "My Place in the World",
         "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-04-14T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-14T07:00:00.000Z",
         "challengeDayNo": 14,
         "dayOfTheWeek": "Thu"
     },
@@ -808,7 +1984,7 @@
         "id": "B.T.211",
         "graphicsTitle": "Stand Up",
         "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-04-15T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-15T07:00:00.000Z",
         "challengeDayNo": 15,
         "dayOfTheWeek": "Fri"
     },
@@ -816,7 +1992,7 @@
         "id": "B.T.212",
         "graphicsTitle": "Change is Good",
         "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-04-16T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-16T07:00:00.000Z",
         "challengeDayNo": 16,
         "dayOfTheWeek": "Sat"
     },
@@ -824,7 +2000,7 @@
         "id": "B.T.213",
         "graphicsTitle": "Internal Resources",
         "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-04-17T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-17T07:00:00.000Z",
         "challengeDayNo": 17,
         "dayOfTheWeek": "Sun"
     },
@@ -832,7 +2008,7 @@
         "id": "B.T.214",
         "graphicsTitle": "Love & Acceptance",
         "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-04-18T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-18T07:00:00.000Z",
         "challengeDayNo": 18,
         "dayOfTheWeek": "Mon"
     },
@@ -840,7 +2016,7 @@
         "id": "B.T.215",
         "graphicsTitle": "Joy",
         "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-04-19T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-19T07:00:00.000Z",
         "challengeDayNo": 19,
         "dayOfTheWeek": "Tue"
     },
@@ -848,7 +2024,7 @@
         "id": "B.T.216",
         "graphicsTitle": "Incredible Person",
         "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-04-20T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-20T07:00:00.000Z",
         "challengeDayNo": 20,
         "dayOfTheWeek": "Wed"
     },
@@ -856,7 +2032,7 @@
         "id": "B.T.217",
         "graphicsTitle": "Confidence",
         "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-04-21T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-21T07:00:00.000Z",
         "challengeDayNo": 21,
         "dayOfTheWeek": "Thu"
     },
@@ -864,70 +2040,70 @@
         "id": "B.T.218",
         "graphicsTitle": "Positive Energy",
         "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-04-22T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-22T07:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.219",
         "graphicsTitle": "Breathing",
         "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-04-23T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-23T07:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.220",
         "graphicsTitle": "Empowering Thoughts",
         "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-04-24T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-24T07:00:00.000Z",
         "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.221",
         "graphicsTitle": "Respecting Energy",
         "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-04-25T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-25T07:00:00.000Z",
         "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.222",
         "graphicsTitle": "One Thing at a Time",
         "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-04-26T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-26T07:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.223",
         "graphicsTitle": "My Own Path",
         "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-04-27T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-27T07:00:00.000Z",
         "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.224",
         "graphicsTitle": "Capable",
         "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-04-28T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-28T07:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.225",
         "graphicsTitle": "Comfort Zone",
         "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-04-29T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-29T07:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.226",
         "graphicsTitle": "Do My Best",
         "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-04-30T07:00:00.000Z",
+        "affirmationDayDate": "2023-09-30T07:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.197",
         "graphicsTitle": "Challenges & Success",
         "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-05-01T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-01T07:00:00.000Z",
         "challengeDayNo": 1,
         "dayOfTheWeek": "Sun"
     },
@@ -935,7 +2111,7 @@
         "id": "B.T.198",
         "graphicsTitle": "Prosperity",
         "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-05-02T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-02T07:00:00.000Z",
         "challengeDayNo": 2,
         "dayOfTheWeek": "Mon"
     },
@@ -943,7 +2119,7 @@
         "id": "B.T.199",
         "graphicsTitle": "Self-worth",
         "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-05-03T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-03T07:00:00.000Z",
         "challengeDayNo": 3,
         "dayOfTheWeek": "Tue"
     },
@@ -951,7 +2127,7 @@
         "id": "B.T.200",
         "graphicsTitle": "Heart & Mind",
         "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-05-04T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-04T07:00:00.000Z",
         "challengeDayNo": 4,
         "dayOfTheWeek": "Wed"
     },
@@ -959,7 +2135,7 @@
         "id": "B.T.201",
         "graphicsTitle": "Unstoppable",
         "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-05-05T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-05T07:00:00.000Z",
         "challengeDayNo": 5,
         "dayOfTheWeek": "Thu"
     },
@@ -967,7 +2143,7 @@
         "id": "B.T.202",
         "graphicsTitle": "Letting Go",
         "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-05-06T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-06T07:00:00.000Z",
         "challengeDayNo": 6,
         "dayOfTheWeek": "Fri"
     },
@@ -975,7 +2151,7 @@
         "id": "B.T.203",
         "graphicsTitle": "I Deserve the Best",
         "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-05-07T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-07T07:00:00.000Z",
         "challengeDayNo": 7,
         "dayOfTheWeek": "Sat"
     },
@@ -983,7 +2159,7 @@
         "id": "B.T.204",
         "graphicsTitle": "Intuition",
         "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-05-08T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-08T07:00:00.000Z",
         "challengeDayNo": 8,
         "dayOfTheWeek": "Sun"
     },
@@ -991,7 +2167,7 @@
         "id": "B.T.205",
         "graphicsTitle": "Space to Grow",
         "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-05-09T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-09T07:00:00.000Z",
         "challengeDayNo": 9,
         "dayOfTheWeek": "Mon"
     },
@@ -999,7 +2175,7 @@
         "id": "B.T.206",
         "graphicsTitle": "I am Enough",
         "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-05-10T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-10T07:00:00.000Z",
         "challengeDayNo": 10,
         "dayOfTheWeek": "Tue"
     },
@@ -1007,7 +2183,7 @@
         "id": "B.T.207",
         "graphicsTitle": "Accepting Emotions",
         "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-05-11T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-11T07:00:00.000Z",
         "challengeDayNo": 11,
         "dayOfTheWeek": "Wed"
     },
@@ -1015,7 +2191,7 @@
         "id": "B.T.208",
         "graphicsTitle": "Care & Attention",
         "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-05-12T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-12T07:00:00.000Z",
         "challengeDayNo": 12,
         "dayOfTheWeek": "Thu"
     },
@@ -1023,7 +2199,7 @@
         "id": "B.T.209",
         "graphicsTitle": "Right Direction",
         "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-05-13T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-13T07:00:00.000Z",
         "challengeDayNo": 13,
         "dayOfTheWeek": "Fri"
     },
@@ -1031,7 +2207,7 @@
         "id": "B.T.210",
         "graphicsTitle": "My Place in the World",
         "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-05-14T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-14T07:00:00.000Z",
         "challengeDayNo": 14,
         "dayOfTheWeek": "Sat"
     },
@@ -1039,7 +2215,7 @@
         "id": "B.T.211",
         "graphicsTitle": "Stand Up",
         "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-05-15T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-15T07:00:00.000Z",
         "challengeDayNo": 15,
         "dayOfTheWeek": "Sun"
     },
@@ -1047,7 +2223,7 @@
         "id": "B.T.212",
         "graphicsTitle": "Change is Good",
         "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-05-16T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-16T07:00:00.000Z",
         "challengeDayNo": 16,
         "dayOfTheWeek": "Mon"
     },
@@ -1055,7 +2231,7 @@
         "id": "B.T.213",
         "graphicsTitle": "Internal Resources",
         "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-05-17T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-17T07:00:00.000Z",
         "challengeDayNo": 17,
         "dayOfTheWeek": "Tue"
     },
@@ -1063,7 +2239,7 @@
         "id": "B.T.214",
         "graphicsTitle": "Love & Acceptance",
         "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-05-18T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-18T07:00:00.000Z",
         "challengeDayNo": 18,
         "dayOfTheWeek": "Wed"
     },
@@ -1071,7 +2247,7 @@
         "id": "B.T.215",
         "graphicsTitle": "Joy",
         "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-05-19T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-19T07:00:00.000Z",
         "challengeDayNo": 19,
         "dayOfTheWeek": "Thu"
     },
@@ -1079,7 +2255,7 @@
         "id": "B.T.216",
         "graphicsTitle": "Incredible Person",
         "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-05-20T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-20T07:00:00.000Z",
         "challengeDayNo": 20,
         "dayOfTheWeek": "Fri"
     },
@@ -1087,7 +2263,7 @@
         "id": "B.T.217",
         "graphicsTitle": "Confidence",
         "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-05-21T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-21T07:00:00.000Z",
         "challengeDayNo": 21,
         "dayOfTheWeek": "Sat"
     },
@@ -1095,77 +2271,77 @@
         "id": "B.T.218",
         "graphicsTitle": "Positive Energy",
         "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-05-22T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-22T07:00:00.000Z",
         "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.219",
         "graphicsTitle": "Breathing",
         "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-05-23T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-23T07:00:00.000Z",
         "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.220",
         "graphicsTitle": "Empowering Thoughts",
         "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-05-24T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-24T07:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.221",
         "graphicsTitle": "Respecting Energy",
         "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-05-25T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-25T07:00:00.000Z",
         "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.222",
         "graphicsTitle": "One Thing at a Time",
         "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-05-26T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-26T07:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.223",
         "graphicsTitle": "My Own Path",
         "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-05-27T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-27T07:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.224",
         "graphicsTitle": "Capable",
         "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-05-28T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-28T07:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.225",
         "graphicsTitle": "Comfort Zone",
         "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-05-29T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-29T07:00:00.000Z",
         "dayOfTheWeek": "Sun"
     },
     {
         "id": "B.T.226",
         "graphicsTitle": "Do My Best",
         "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-05-30T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-30T07:00:00.000Z",
         "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.227",
         "graphicsTitle": "Inner Strength",
         "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
-        "affirmationDayDate": "2022-05-31T07:00:00.000Z",
+        "affirmationDayDate": "2023-10-31T07:00:00.000Z",
         "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.197",
         "graphicsTitle": "Challenges & Success",
         "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-06-01T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-01T07:00:00.000Z",
         "challengeDayNo": 1,
         "dayOfTheWeek": "Wed"
     },
@@ -1173,7 +2349,7 @@
         "id": "B.T.198",
         "graphicsTitle": "Prosperity",
         "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-06-02T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-02T07:00:00.000Z",
         "challengeDayNo": 2,
         "dayOfTheWeek": "Thu"
     },
@@ -1181,7 +2357,7 @@
         "id": "B.T.199",
         "graphicsTitle": "Self-worth",
         "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-06-03T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-03T07:00:00.000Z",
         "challengeDayNo": 3,
         "dayOfTheWeek": "Fri"
     },
@@ -1189,7 +2365,7 @@
         "id": "B.T.200",
         "graphicsTitle": "Heart & Mind",
         "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-06-04T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-04T07:00:00.000Z",
         "challengeDayNo": 4,
         "dayOfTheWeek": "Sat"
     },
@@ -1197,7 +2373,7 @@
         "id": "B.T.201",
         "graphicsTitle": "Unstoppable",
         "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-06-05T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-05T07:00:00.000Z",
         "challengeDayNo": 5,
         "dayOfTheWeek": "Sun"
     },
@@ -1205,7 +2381,7 @@
         "id": "B.T.202",
         "graphicsTitle": "Letting Go",
         "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-06-06T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-06T08:00:00.000Z",
         "challengeDayNo": 6,
         "dayOfTheWeek": "Mon"
     },
@@ -1213,7 +2389,7 @@
         "id": "B.T.203",
         "graphicsTitle": "I Deserve the Best",
         "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-06-07T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-07T08:00:00.000Z",
         "challengeDayNo": 7,
         "dayOfTheWeek": "Tue"
     },
@@ -1221,7 +2397,7 @@
         "id": "B.T.204",
         "graphicsTitle": "Intuition",
         "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-06-08T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-08T08:00:00.000Z",
         "challengeDayNo": 8,
         "dayOfTheWeek": "Wed"
     },
@@ -1229,7 +2405,7 @@
         "id": "B.T.205",
         "graphicsTitle": "Space to Grow",
         "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-06-09T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-09T08:00:00.000Z",
         "challengeDayNo": 9,
         "dayOfTheWeek": "Thu"
     },
@@ -1237,7 +2413,7 @@
         "id": "B.T.206",
         "graphicsTitle": "I am Enough",
         "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-06-10T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-10T08:00:00.000Z",
         "challengeDayNo": 10,
         "dayOfTheWeek": "Fri"
     },
@@ -1245,7 +2421,7 @@
         "id": "B.T.207",
         "graphicsTitle": "Accepting Emotions",
         "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-06-11T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-11T08:00:00.000Z",
         "challengeDayNo": 11,
         "dayOfTheWeek": "Sat"
     },
@@ -1253,7 +2429,7 @@
         "id": "B.T.208",
         "graphicsTitle": "Care & Attention",
         "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-06-12T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-12T08:00:00.000Z",
         "challengeDayNo": 12,
         "dayOfTheWeek": "Sun"
     },
@@ -1261,7 +2437,7 @@
         "id": "B.T.209",
         "graphicsTitle": "Right Direction",
         "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-06-13T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-13T08:00:00.000Z",
         "challengeDayNo": 13,
         "dayOfTheWeek": "Mon"
     },
@@ -1269,7 +2445,7 @@
         "id": "B.T.210",
         "graphicsTitle": "My Place in the World",
         "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-06-14T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-14T08:00:00.000Z",
         "challengeDayNo": 14,
         "dayOfTheWeek": "Tue"
     },
@@ -1277,7 +2453,7 @@
         "id": "B.T.211",
         "graphicsTitle": "Stand Up",
         "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-06-15T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-15T08:00:00.000Z",
         "challengeDayNo": 15,
         "dayOfTheWeek": "Wed"
     },
@@ -1285,7 +2461,7 @@
         "id": "B.T.212",
         "graphicsTitle": "Change is Good",
         "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-06-16T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-16T08:00:00.000Z",
         "challengeDayNo": 16,
         "dayOfTheWeek": "Thu"
     },
@@ -1293,7 +2469,7 @@
         "id": "B.T.213",
         "graphicsTitle": "Internal Resources",
         "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-06-17T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-17T08:00:00.000Z",
         "challengeDayNo": 17,
         "dayOfTheWeek": "Fri"
     },
@@ -1301,7 +2477,7 @@
         "id": "B.T.214",
         "graphicsTitle": "Love & Acceptance",
         "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-06-18T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-18T08:00:00.000Z",
         "challengeDayNo": 18,
         "dayOfTheWeek": "Sat"
     },
@@ -1309,7 +2485,7 @@
         "id": "B.T.215",
         "graphicsTitle": "Joy",
         "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-06-19T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-19T08:00:00.000Z",
         "challengeDayNo": 19,
         "dayOfTheWeek": "Sun"
     },
@@ -1317,7 +2493,7 @@
         "id": "B.T.216",
         "graphicsTitle": "Incredible Person",
         "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-06-20T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-20T08:00:00.000Z",
         "challengeDayNo": 20,
         "dayOfTheWeek": "Mon"
     },
@@ -1325,7 +2501,7 @@
         "id": "B.T.217",
         "graphicsTitle": "Confidence",
         "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-06-21T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-21T08:00:00.000Z",
         "challengeDayNo": 21,
         "dayOfTheWeek": "Tue"
     },
@@ -1333,1240 +2509,64 @@
         "id": "B.T.218",
         "graphicsTitle": "Positive Energy",
         "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-06-22T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-22T08:00:00.000Z",
         "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.219",
         "graphicsTitle": "Breathing",
         "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-06-23T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-23T08:00:00.000Z",
         "dayOfTheWeek": "Thu"
     },
     {
         "id": "B.T.220",
         "graphicsTitle": "Empowering Thoughts",
         "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-06-24T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-24T08:00:00.000Z",
         "dayOfTheWeek": "Fri"
     },
     {
         "id": "B.T.221",
         "graphicsTitle": "Respecting Energy",
         "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-06-25T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-25T08:00:00.000Z",
         "dayOfTheWeek": "Sat"
     },
     {
         "id": "B.T.222",
         "graphicsTitle": "One Thing at a Time",
         "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-06-26T07:00:00.000Z",
+        "affirmationDayDate": "2023-11-26T08:00:00.000Z",
         "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.223",
-        "graphicsTitle": "My Own Path",
-        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-06-27T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.224",
-        "graphicsTitle": "Capable",
-        "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-06-28T07:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.225",
-        "graphicsTitle": "Comfort Zone",
-        "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-06-29T07:00:00.000Z",
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.226",
-        "graphicsTitle": "Do My Best",
-        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-06-30T07:00:00.000Z",
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.197",
-        "graphicsTitle": "Challenges & Success",
-        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-07-01T07:00:00.000Z",
-        "challengeDayNo": 1,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.198",
-        "graphicsTitle": "Prosperity",
-        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-07-02T07:00:00.000Z",
-        "challengeDayNo": 2,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.199",
-        "graphicsTitle": "Self-worth",
-        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-07-03T07:00:00.000Z",
-        "challengeDayNo": 3,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.200",
-        "graphicsTitle": "Heart & Mind",
-        "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-07-04T07:00:00.000Z",
-        "challengeDayNo": 4,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.201",
-        "graphicsTitle": "Unstoppable",
-        "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-07-05T07:00:00.000Z",
-        "challengeDayNo": 5,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.202",
-        "graphicsTitle": "Letting Go",
-        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-07-06T07:00:00.000Z",
-        "challengeDayNo": 6,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.203",
-        "graphicsTitle": "I Deserve the Best",
-        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-07-07T07:00:00.000Z",
-        "challengeDayNo": 7,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.204",
-        "graphicsTitle": "Intuition",
-        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-07-08T07:00:00.000Z",
-        "challengeDayNo": 8,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.205",
-        "graphicsTitle": "Space to Grow",
-        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-07-09T07:00:00.000Z",
-        "challengeDayNo": 9,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.206",
-        "graphicsTitle": "I am Enough",
-        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-07-10T07:00:00.000Z",
-        "challengeDayNo": 10,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.207",
-        "graphicsTitle": "Accepting Emotions",
-        "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-07-11T07:00:00.000Z",
-        "challengeDayNo": 11,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.208",
-        "graphicsTitle": "Care & Attention",
-        "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-07-12T07:00:00.000Z",
-        "challengeDayNo": 12,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.209",
-        "graphicsTitle": "Right Direction",
-        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-07-13T07:00:00.000Z",
-        "challengeDayNo": 13,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.210",
-        "graphicsTitle": "My Place in the World",
-        "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-07-14T07:00:00.000Z",
-        "challengeDayNo": 14,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.211",
-        "graphicsTitle": "Stand Up",
-        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-07-15T07:00:00.000Z",
-        "challengeDayNo": 15,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.212",
-        "graphicsTitle": "Change is Good",
-        "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-07-16T07:00:00.000Z",
-        "challengeDayNo": 16,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.213",
-        "graphicsTitle": "Internal Resources",
-        "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-07-17T07:00:00.000Z",
-        "challengeDayNo": 17,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.214",
-        "graphicsTitle": "Love & Acceptance",
-        "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-07-18T07:00:00.000Z",
-        "challengeDayNo": 18,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.215",
-        "graphicsTitle": "Joy",
-        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-07-19T07:00:00.000Z",
-        "challengeDayNo": 19,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.216",
-        "graphicsTitle": "Incredible Person",
-        "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-07-20T07:00:00.000Z",
-        "challengeDayNo": 20,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.217",
-        "graphicsTitle": "Confidence",
-        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-07-21T07:00:00.000Z",
-        "challengeDayNo": 21,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.218",
-        "graphicsTitle": "Positive Energy",
-        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-07-22T07:00:00.000Z",
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.219",
-        "graphicsTitle": "Breathing",
-        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-07-23T07:00:00.000Z",
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.220",
-        "graphicsTitle": "Empowering Thoughts",
-        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-07-24T07:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.221",
-        "graphicsTitle": "Respecting Energy",
-        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-07-25T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.222",
-        "graphicsTitle": "One Thing at a Time",
-        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-07-26T07:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.223",
-        "graphicsTitle": "My Own Path",
-        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-07-27T07:00:00.000Z",
-        "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.228",
         "graphicsTitle": "Anything is Possible",
         "affirmation": "Wonderful things are going to happen to me. Anything is possible",
-        "affirmationDayDate": "2022-07-28T07:00:00.000Z",
-        "dayOfTheWeek": "Thu"
+        "affirmationDayDate": "2023-11-27T08:00:00.000Z",
+        "dayOfTheWeek": "Mon"
     },
     {
         "id": "B.T.229",
         "graphicsTitle": "I am Going to Shine",
         "affirmation": "Today I am going to shine. My possibilities are endless.",
-        "affirmationDayDate": "2022-07-29T07:00:00.000Z",
-        "dayOfTheWeek": "Fri"
+        "affirmationDayDate": "2023-11-28T08:00:00.000Z",
+        "dayOfTheWeek": "Tue"
     },
     {
         "id": "B.T.230",
         "graphicsTitle": "Imperfections",
         "affirmation": "My imperfections make me human. I forgive myself when I make a mistake.",
-        "affirmationDayDate": "2022-07-30T07:00:00.000Z",
-        "dayOfTheWeek": "Sat"
+        "affirmationDayDate": "2023-11-29T08:00:00.000Z",
+        "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.231",
         "graphicsTitle": "Power of Attraction",
         "affirmation": "I attract the perfect people at the right time. I trust that what is right for me won't pass me by.",
-        "affirmationDayDate": "2022-07-31T07:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.197",
-        "graphicsTitle": "Challenges & Success",
-        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-08-01T07:00:00.000Z",
-        "challengeDayNo": 1,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.198",
-        "graphicsTitle": "Prosperity",
-        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-08-02T07:00:00.000Z",
-        "challengeDayNo": 2,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.199",
-        "graphicsTitle": "Self-worth",
-        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-08-03T07:00:00.000Z",
-        "challengeDayNo": 3,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.200",
-        "graphicsTitle": "Heart & Mind",
-        "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-08-04T07:00:00.000Z",
-        "challengeDayNo": 4,
+        "affirmationDayDate": "2023-11-30T08:00:00.000Z",
         "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.201",
-        "graphicsTitle": "Unstoppable",
-        "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-08-05T07:00:00.000Z",
-        "challengeDayNo": 5,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.202",
-        "graphicsTitle": "Letting Go",
-        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-08-06T07:00:00.000Z",
-        "challengeDayNo": 6,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.203",
-        "graphicsTitle": "I Deserve the Best",
-        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-08-07T07:00:00.000Z",
-        "challengeDayNo": 7,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.204",
-        "graphicsTitle": "Intuition",
-        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-08-08T07:00:00.000Z",
-        "challengeDayNo": 8,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.205",
-        "graphicsTitle": "Space to Grow",
-        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-08-09T07:00:00.000Z",
-        "challengeDayNo": 9,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.206",
-        "graphicsTitle": "I am Enough",
-        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-08-10T07:00:00.000Z",
-        "challengeDayNo": 10,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.207",
-        "graphicsTitle": "Accepting Emotions",
-        "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-08-11T07:00:00.000Z",
-        "challengeDayNo": 11,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.208",
-        "graphicsTitle": "Care & Attention",
-        "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-08-12T07:00:00.000Z",
-        "challengeDayNo": 12,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.209",
-        "graphicsTitle": "Right Direction",
-        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-08-13T07:00:00.000Z",
-        "challengeDayNo": 13,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.210",
-        "graphicsTitle": "My Place in the World",
-        "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-08-14T07:00:00.000Z",
-        "challengeDayNo": 14,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.211",
-        "graphicsTitle": "Stand Up",
-        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-08-15T07:00:00.000Z",
-        "challengeDayNo": 15,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.212",
-        "graphicsTitle": "Change is Good",
-        "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-08-16T07:00:00.000Z",
-        "challengeDayNo": 16,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.213",
-        "graphicsTitle": "Internal Resources",
-        "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-08-17T07:00:00.000Z",
-        "challengeDayNo": 17,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.214",
-        "graphicsTitle": "Love & Acceptance",
-        "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-08-18T07:00:00.000Z",
-        "challengeDayNo": 18,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.215",
-        "graphicsTitle": "Joy",
-        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-08-19T07:00:00.000Z",
-        "challengeDayNo": 19,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.216",
-        "graphicsTitle": "Incredible Person",
-        "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-08-20T07:00:00.000Z",
-        "challengeDayNo": 20,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.217",
-        "graphicsTitle": "Confidence",
-        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-08-21T07:00:00.000Z",
-        "challengeDayNo": 21,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.218",
-        "graphicsTitle": "Positive Energy",
-        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-08-22T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.219",
-        "graphicsTitle": "Breathing",
-        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-08-23T07:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.220",
-        "graphicsTitle": "Empowering Thoughts",
-        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-08-24T07:00:00.000Z",
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.221",
-        "graphicsTitle": "Respecting Energy",
-        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-08-25T07:00:00.000Z",
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.222",
-        "graphicsTitle": "One Thing at a Time",
-        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-08-26T07:00:00.000Z",
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.223",
-        "graphicsTitle": "My Own Path",
-        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-08-27T07:00:00.000Z",
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.224",
-        "graphicsTitle": "Capable",
-        "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-08-28T07:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.225",
-        "graphicsTitle": "Comfort Zone",
-        "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-08-29T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.226",
-        "graphicsTitle": "Do My Best",
-        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-08-30T07:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.227",
-        "graphicsTitle": "Inner Strength",
-        "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
-        "affirmationDayDate": "2022-08-31T07:00:00.000Z",
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.197",
-        "graphicsTitle": "Challenges & Success",
-        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-09-01T07:00:00.000Z",
-        "challengeDayNo": 1,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.198",
-        "graphicsTitle": "Prosperity",
-        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-09-02T07:00:00.000Z",
-        "challengeDayNo": 2,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.199",
-        "graphicsTitle": "Self-worth",
-        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-09-03T07:00:00.000Z",
-        "challengeDayNo": 3,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.200",
-        "graphicsTitle": "Heart & Mind",
-        "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-09-04T07:00:00.000Z",
-        "challengeDayNo": 4,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.201",
-        "graphicsTitle": "Unstoppable",
-        "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-09-05T07:00:00.000Z",
-        "challengeDayNo": 5,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.202",
-        "graphicsTitle": "Letting Go",
-        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-09-06T07:00:00.000Z",
-        "challengeDayNo": 6,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.203",
-        "graphicsTitle": "I Deserve the Best",
-        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-09-07T07:00:00.000Z",
-        "challengeDayNo": 7,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.204",
-        "graphicsTitle": "Intuition",
-        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-09-08T07:00:00.000Z",
-        "challengeDayNo": 8,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.205",
-        "graphicsTitle": "Space to Grow",
-        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-09-09T07:00:00.000Z",
-        "challengeDayNo": 9,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.206",
-        "graphicsTitle": "I am Enough",
-        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-09-10T07:00:00.000Z",
-        "challengeDayNo": 10,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.207",
-        "graphicsTitle": "Accepting Emotions",
-        "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-09-11T07:00:00.000Z",
-        "challengeDayNo": 11,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.208",
-        "graphicsTitle": "Care & Attention",
-        "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-09-12T07:00:00.000Z",
-        "challengeDayNo": 12,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.209",
-        "graphicsTitle": "Right Direction",
-        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-09-13T07:00:00.000Z",
-        "challengeDayNo": 13,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.210",
-        "graphicsTitle": "My Place in the World",
-        "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-09-14T07:00:00.000Z",
-        "challengeDayNo": 14,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.211",
-        "graphicsTitle": "Stand Up",
-        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-09-15T07:00:00.000Z",
-        "challengeDayNo": 15,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.212",
-        "graphicsTitle": "Change is Good",
-        "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-09-16T07:00:00.000Z",
-        "challengeDayNo": 16,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.213",
-        "graphicsTitle": "Internal Resources",
-        "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-09-17T07:00:00.000Z",
-        "challengeDayNo": 17,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.214",
-        "graphicsTitle": "Love & Acceptance",
-        "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-09-18T07:00:00.000Z",
-        "challengeDayNo": 18,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.215",
-        "graphicsTitle": "Joy",
-        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-09-19T07:00:00.000Z",
-        "challengeDayNo": 19,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.216",
-        "graphicsTitle": "Incredible Person",
-        "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-09-20T07:00:00.000Z",
-        "challengeDayNo": 20,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.217",
-        "graphicsTitle": "Confidence",
-        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-09-21T07:00:00.000Z",
-        "challengeDayNo": 21,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.218",
-        "graphicsTitle": "Positive Energy",
-        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-09-22T07:00:00.000Z",
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.219",
-        "graphicsTitle": "Breathing",
-        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-09-23T07:00:00.000Z",
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.220",
-        "graphicsTitle": "Empowering Thoughts",
-        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-09-24T07:00:00.000Z",
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.221",
-        "graphicsTitle": "Respecting Energy",
-        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-09-25T07:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.222",
-        "graphicsTitle": "One Thing at a Time",
-        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-09-26T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.223",
-        "graphicsTitle": "My Own Path",
-        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-09-27T07:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.224",
-        "graphicsTitle": "Capable",
-        "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-09-28T07:00:00.000Z",
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.225",
-        "graphicsTitle": "Comfort Zone",
-        "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-09-29T07:00:00.000Z",
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.226",
-        "graphicsTitle": "Do My Best",
-        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-09-30T07:00:00.000Z",
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.197",
-        "graphicsTitle": "Challenges & Success",
-        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-10-01T07:00:00.000Z",
-        "challengeDayNo": 1,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.198",
-        "graphicsTitle": "Prosperity",
-        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-10-02T07:00:00.000Z",
-        "challengeDayNo": 2,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.199",
-        "graphicsTitle": "Self-worth",
-        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-10-03T07:00:00.000Z",
-        "challengeDayNo": 3,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.200",
-        "graphicsTitle": "Heart & Mind",
-        "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-10-04T07:00:00.000Z",
-        "challengeDayNo": 4,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.201",
-        "graphicsTitle": "Unstoppable",
-        "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-10-05T07:00:00.000Z",
-        "challengeDayNo": 5,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.202",
-        "graphicsTitle": "Letting Go",
-        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-10-06T07:00:00.000Z",
-        "challengeDayNo": 6,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.203",
-        "graphicsTitle": "I Deserve the Best",
-        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-10-07T07:00:00.000Z",
-        "challengeDayNo": 7,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.204",
-        "graphicsTitle": "Intuition",
-        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-10-08T07:00:00.000Z",
-        "challengeDayNo": 8,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.205",
-        "graphicsTitle": "Space to Grow",
-        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-10-09T07:00:00.000Z",
-        "challengeDayNo": 9,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.206",
-        "graphicsTitle": "I am Enough",
-        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-10-10T07:00:00.000Z",
-        "challengeDayNo": 10,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.207",
-        "graphicsTitle": "Accepting Emotions",
-        "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-10-11T07:00:00.000Z",
-        "challengeDayNo": 11,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.208",
-        "graphicsTitle": "Care & Attention",
-        "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-10-12T07:00:00.000Z",
-        "challengeDayNo": 12,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.209",
-        "graphicsTitle": "Right Direction",
-        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-10-13T07:00:00.000Z",
-        "challengeDayNo": 13,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.210",
-        "graphicsTitle": "My Place in the World",
-        "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-10-14T07:00:00.000Z",
-        "challengeDayNo": 14,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.211",
-        "graphicsTitle": "Stand Up",
-        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-10-15T07:00:00.000Z",
-        "challengeDayNo": 15,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.212",
-        "graphicsTitle": "Change is Good",
-        "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-10-16T07:00:00.000Z",
-        "challengeDayNo": 16,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.213",
-        "graphicsTitle": "Internal Resources",
-        "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-10-17T07:00:00.000Z",
-        "challengeDayNo": 17,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.214",
-        "graphicsTitle": "Love & Acceptance",
-        "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-10-18T07:00:00.000Z",
-        "challengeDayNo": 18,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.215",
-        "graphicsTitle": "Joy",
-        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-10-19T07:00:00.000Z",
-        "challengeDayNo": 19,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.216",
-        "graphicsTitle": "Incredible Person",
-        "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-10-20T07:00:00.000Z",
-        "challengeDayNo": 20,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.217",
-        "graphicsTitle": "Confidence",
-        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-10-21T07:00:00.000Z",
-        "challengeDayNo": 21,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.218",
-        "graphicsTitle": "Positive Energy",
-        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-10-22T07:00:00.000Z",
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.219",
-        "graphicsTitle": "Breathing",
-        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-10-23T07:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.220",
-        "graphicsTitle": "Empowering Thoughts",
-        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-10-24T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.221",
-        "graphicsTitle": "Respecting Energy",
-        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-10-25T07:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.222",
-        "graphicsTitle": "One Thing at a Time",
-        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-10-26T07:00:00.000Z",
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.223",
-        "graphicsTitle": "My Own Path",
-        "affirmation": "Everyone’s path is uniquely beautiful, including my own.",
-        "affirmationDayDate": "2022-10-27T07:00:00.000Z",
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.224",
-        "graphicsTitle": "Capable",
-        "affirmation": "I am capable of so much. I am proud of myself.",
-        "affirmationDayDate": "2022-10-28T07:00:00.000Z",
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.225",
-        "graphicsTitle": "Comfort Zone",
-        "affirmation": "My confidence grows when I step outside of my comfort zone.",
-        "affirmationDayDate": "2022-10-29T07:00:00.000Z",
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.226",
-        "graphicsTitle": "Do My Best",
-        "affirmation": "It is enough to do my best. It’s okay to make mistakes.",
-        "affirmationDayDate": "2022-10-30T07:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.227",
-        "graphicsTitle": "Inner Strength",
-        "affirmation": "No matter how hard it is, I can do it. I have inner strength.",
-        "affirmationDayDate": "2022-10-31T07:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.197",
-        "graphicsTitle": "Challenges & Success",
-        "affirmation": "My ability to navigate challenges is limitless. My potential to succeed is infinite.",
-        "affirmationDayDate": "2022-11-01T07:00:00.000Z",
-        "challengeDayNo": 1,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.198",
-        "graphicsTitle": "Prosperity",
-        "affirmation": "My thoughts are filled with positivity and my life is plentiful with prosperity.",
-        "affirmationDayDate": "2022-11-02T07:00:00.000Z",
-        "challengeDayNo": 2,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.199",
-        "graphicsTitle": "Self-worth",
-        "affirmation": "I acknowledge my own self-worth. My confidence is soaring.",
-        "affirmationDayDate": "2022-11-03T07:00:00.000Z",
-        "challengeDayNo": 3,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.200",
-        "graphicsTitle": "Heart & Mind",
-        "affirmation": "I have strength in my heart and clarity in my mind.",
-        "affirmationDayDate": "2022-11-04T07:00:00.000Z",
-        "challengeDayNo": 4,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.201",
-        "graphicsTitle": "Unstoppable",
-        "affirmation": "I have the power to create change. I am unstoppable.",
-        "affirmationDayDate": "2022-11-05T07:00:00.000Z",
-        "challengeDayNo": 5,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.202",
-        "graphicsTitle": "Letting Go",
-        "affirmation": "I have everything I need. I let go of all that no longer serves me.",
-        "affirmationDayDate": "2022-11-06T07:00:00.000Z",
-        "challengeDayNo": 6,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.203",
-        "graphicsTitle": "I Deserve the Best",
-        "affirmation": "I deserve the best. I deserve love, compassion and kindness.",
-        "affirmationDayDate": "2022-11-07T08:00:00.000Z",
-        "challengeDayNo": 7,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.204",
-        "graphicsTitle": "Intuition",
-        "affirmation": "I listen to my intuition and trust my inner guide. I trust myself to make the right decision.",
-        "affirmationDayDate": "2022-11-08T08:00:00.000Z",
-        "challengeDayNo": 8,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.205",
-        "graphicsTitle": "Space to Grow",
-        "affirmation": "I give myself space to grow and learn. If I fall, I will get back up again.",
-        "affirmationDayDate": "2022-11-09T08:00:00.000Z",
-        "challengeDayNo": 9,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.206",
-        "graphicsTitle": "I am Enough",
-        "affirmation": "I allow myself to be who I am without judgment. I am enough. I am whole.",
-        "affirmationDayDate": "2022-11-10T08:00:00.000Z",
-        "challengeDayNo": 10,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.207",
-        "graphicsTitle": "Accepting Emotions",
-        "affirmation": "I accept my emotions and let them serve their purpose.",
-        "affirmationDayDate": "2022-11-11T08:00:00.000Z",
-        "challengeDayNo": 11,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.208",
-        "graphicsTitle": "Care & Attention",
-        "affirmation": "I give myself the care and attention that I deserve.",
-        "affirmationDayDate": "2022-11-12T08:00:00.000Z",
-        "challengeDayNo": 12,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.209",
-        "graphicsTitle": "Right Direction",
-        "affirmation": "I am always headed in the right direction. I trust that I am on the right path.",
-        "affirmationDayDate": "2022-11-13T08:00:00.000Z",
-        "challengeDayNo": 13,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.210",
-        "graphicsTitle": "My Place in the World",
-        "affirmation": "I make a difference in the world by simply existing in it.",
-        "affirmationDayDate": "2022-11-14T08:00:00.000Z",
-        "challengeDayNo": 14,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.211",
-        "graphicsTitle": "Stand Up",
-        "affirmation": "I choose to focus on what I can change. I stand up for what I believe in.",
-        "affirmationDayDate": "2022-11-15T08:00:00.000Z",
-        "challengeDayNo": 15,
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.212",
-        "graphicsTitle": "Change is Good",
-        "affirmation": "I can choose excitement over nervousness. Change is good.",
-        "affirmationDayDate": "2022-11-16T08:00:00.000Z",
-        "challengeDayNo": 16,
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.213",
-        "graphicsTitle": "Internal Resources",
-        "affirmation": "I have all the internal resources I need to thrive.",
-        "affirmationDayDate": "2022-11-17T08:00:00.000Z",
-        "challengeDayNo": 17,
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.214",
-        "graphicsTitle": "Love & Acceptance",
-        "affirmation": "I am filled with love and acceptance for myself and others.",
-        "affirmationDayDate": "2022-11-18T08:00:00.000Z",
-        "challengeDayNo": 18,
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.215",
-        "graphicsTitle": "Joy",
-        "affirmation": "I choose to find the joy in my life. I move forward with an open mind and heart.",
-        "affirmationDayDate": "2022-11-19T08:00:00.000Z",
-        "challengeDayNo": 19,
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.216",
-        "graphicsTitle": "Incredible Person",
-        "affirmation": "I believe I am an incredible person. Inside and out.",
-        "affirmationDayDate": "2022-11-20T08:00:00.000Z",
-        "challengeDayNo": 20,
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.217",
-        "graphicsTitle": "Confidence",
-        "affirmation": "I am becoming more confident and can choose to feel differently at any given moment.",
-        "affirmationDayDate": "2022-11-21T08:00:00.000Z",
-        "challengeDayNo": 21,
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.218",
-        "graphicsTitle": "Positive Energy",
-        "affirmation": "My mental and physical health are a priority to me. My energy radiates positivity.",
-        "affirmationDayDate": "2022-11-22T08:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.219",
-        "graphicsTitle": "Breathing",
-        "affirmation": "I can use my breathing to feel more relaxed with every breath I take.",
-        "affirmationDayDate": "2022-11-23T08:00:00.000Z",
-        "dayOfTheWeek": "Wed"
-    },
-    {
-        "id": "B.T.220",
-        "graphicsTitle": "Empowering Thoughts",
-        "affirmation": "I choose to empower myself with my thoughts and my words on a daily basis.",
-        "affirmationDayDate": "2022-11-24T08:00:00.000Z",
-        "dayOfTheWeek": "Thu"
-    },
-    {
-        "id": "B.T.221",
-        "graphicsTitle": "Respecting Energy",
-        "affirmation": "I respect my energy and give it to the people that value me and things I value.",
-        "affirmationDayDate": "2022-11-25T08:00:00.000Z",
-        "dayOfTheWeek": "Fri"
-    },
-    {
-        "id": "B.T.222",
-        "graphicsTitle": "One Thing at a Time",
-        "affirmation": "I focus on each day, one hour at a time, one thing at a time.",
-        "affirmationDayDate": "2022-11-26T08:00:00.000Z",
-        "dayOfTheWeek": "Sat"
-    },
-    {
-        "id": "B.T.228",
-        "graphicsTitle": "Anything is Possible",
-        "affirmation": "Wonderful things are going to happen to me. Anything is possible",
-        "affirmationDayDate": "2022-11-27T08:00:00.000Z",
-        "dayOfTheWeek": "Sun"
-    },
-    {
-        "id": "B.T.229",
-        "graphicsTitle": "I am Going to Shine",
-        "affirmation": "Today I am going to shine. My possibilities are endless.",
-        "affirmationDayDate": "2022-11-28T08:00:00.000Z",
-        "dayOfTheWeek": "Mon"
-    },
-    {
-        "id": "B.T.230",
-        "graphicsTitle": "Imperfections",
-        "affirmation": "My imperfections make me human. I forgive myself when I make a mistake.",
-        "affirmationDayDate": "2022-11-29T08:00:00.000Z",
-        "dayOfTheWeek": "Tue"
-    },
-    {
-        "id": "B.T.231",
-        "graphicsTitle": "Power of Attraction",
-        "affirmation": "I attract the perfect people at the right time. I trust that what is right for me won't pass me by.",
-        "affirmationDayDate": "2022-11-30T08:00:00.000Z",
-        "dayOfTheWeek": "Wed"
     },
     {
         "id": "B.T.197",
