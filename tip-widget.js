@@ -1,7 +1,7 @@
 async function tipImage() {
     let tips = await fetch("./googleSheetUK.json");
     tips = await tips.json();
-    let matchDate = new Date().toISOString().slice(0, 10);
+    let matchDate = new Date().toISOString().slice(5, 10);
     let tipDate;
     let dailyTip;
     let dailyTipSource;
@@ -11,7 +11,7 @@ async function tipImage() {
     
     for (let i = 0; i < tips.length; i += 1) {
         if (tips[i].tipOfTheDayDate !== undefined) {
-            tipDate = (JSON.stringify(tips[i].tipOfTheDayDate)).substring(1, 11);
+            tipDate = (JSON.stringify(tips[i].tipOfTheDayDate)).substring(6, 11);
         };
         if ( tipDate === matchDate) {
             dailyTip = tips[i].id
