@@ -1,7 +1,7 @@
 async function affirmationImage() {
     let affirmations = await fetch("./affirmationSheetUK.json");
     affirmations = await affirmations.json();
-    let matchDate = new Date().toISOString().slice(0, 10);
+    let matchDate = new Date().toISOString().slice(5, 10);
     let affirmationDate;
     let dailyAffirmation;
     let dailyAffirmationSource;
@@ -11,7 +11,7 @@ async function affirmationImage() {
     
     for (let affirmation of affirmations) {
         if (affirmation.affirmationDayDate !== undefined) {
-            affirmationDate = (JSON.stringify(affirmation.affirmationDayDate)).substring(1, 11);
+            affirmationDate = (JSON.stringify(affirmation.affirmationDayDate)).substring(6, 11);
         };
         if ( affirmationDate === matchDate) {
             dailyAffirmation = affirmation.id
